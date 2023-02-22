@@ -2,7 +2,7 @@
 
 ## 규칙
 - 시간 : 월, 수, 금 (오후 2시)
-- 해당 강의르 우선적으로 듣고 옵니다.
+- 해당 강의를 우선적으로 듣고 옵니다.
    - https://blog.encrypted.gg/category/강좌/실전%20알고리즘?page=1
 - 해당 강의에 맞는 문제를 2문제를 풀고 코드를 Git에 올립니다.
    - https://www.acmicpc.net/workbook/by/BaaaaaaaaaaarkingDog
