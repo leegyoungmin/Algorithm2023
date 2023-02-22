@@ -12,6 +12,6 @@
 
 ## 2023년
 ### 2월
-| date       | problem set          | 솜 | LJ | Baem | 미니 | Woong | Gundy |
-| :----------: | :--------------------: | :----: | :----: | :----: | :----: | :----: | :----: |
-|2월 22일|[숫자의 개수](https://www.acmicpc.net/problem/2577), [방배정](https://www.acmicpc.net/problem/13300)| | | | | | |
+| date       | problem set          | 솜 | LJ | Baem | 미니 | Gundy |
+| :----------: | :--------------------: | :----: | :----: | :----: | :----: | :----: |
+|2월 22일|[숫자의 개수](https://www.acmicpc.net/problem/2577), [방배정](https://www.acmicpc.net/problem/13300)| | | | | |
