@@ -16,3 +16,4 @@
 | date       | problem set          | 솜 | LJ | Baem | 미니 | Gundy |
 | :----------: | :--------------------: | :----: | :----: | :----: | :----: | :----: |
 |2월 22일|[숫자의 개수](https://www.acmicpc.net/problem/2577), [방배정](https://www.acmicpc.net/problem/13300)| | | | ✅❎ | |
+|2월 24일|[방 번호](https://www.acmicpc.net/problem/1475), [두 수의 합](https://www.acmicpc.net/problem/3273)| | | | | |
