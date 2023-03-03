@@ -10,13 +10,15 @@
 - 강의를 듣는 것으 월요일만 들어오고, 강의에 해당되는 문제를 일주일동안 풉니다.
 
 ## 확인
+- 확인란에 틀렸든 맞았든 잘 체크 해주세요.
 
-## 2023년
 ### 2월
 | date       | problem set          | LJ | Baem | 미니 | Gundy |
 | :----------: | :--------------------: | :----: | :----: | :----: | :----: |
 |2월 22일|[숫자의 개수](https://www.acmicpc.net/problem/2577), [방배정](https://www.acmicpc.net/problem/13300)| ✅❎ | | ✅❎ | |
 |2월 24일|[방 번호](https://www.acmicpc.net/problem/1475), [두 수의 합](https://www.acmicpc.net/problem/3273)| ✅❎ | | ✅✅ | |
 |2월 27일|[에디터](https://www.acmicpc.net/problem/1406) | | ❎ | |❎  |
+
+### 3월
 |3월 1일|[키로거](https://www.acmicpc.net/problem/5397), [요세푸스 문제](https://www.acmicpc.net/problem/1158)| ✅❎ | | ✅✅ | |
 |3월 6일|[제로](https://www.acmicpc.net/problem/10773), [스택 수열](https://www.acmicpc.net/problem/1874)| | | | |
