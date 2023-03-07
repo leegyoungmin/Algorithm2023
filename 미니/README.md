@@ -3,4 +3,4 @@
 ### 3월
 | date       | problem set          | 체크 |
 | :----------: | :--------------------: | :----: |
-|3월 7일| (Valid Parentheses)[https://leetcode.com/problems/valid-parentheses/] | ✅ |
+|3월 7일| [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | ✅ |
