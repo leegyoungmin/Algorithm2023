@@ -24,4 +24,7 @@
 | :----------: | :--------------------: | :----: | :----: | :----: | :----: |
 |3월 1일|[키로거](https://www.acmicpc.net/problem/5397), [요세푸스 문제](https://www.acmicpc.net/problem/1158)| ✅❎ | | ✅✅ | |
 |3월 6일|[제로](https://www.acmicpc.net/problem/10773), [스택 수열](https://www.acmicpc.net/problem/1874)| ✅❎ | | ✅❎  | |
-|3월 8일|[탑](https://www.acmicpc.net/problem/2493), [옥상 정원 꾸미기](https://www.acmicpc.net/problem/6198)|  | | ❎ | |
+|3월 8일|[탑](https://www.acmicpc.net/problem/2493), [옥상 정원 꾸미기](https://www.acmicpc.net/problem/6198)|  | | ❎❎  | |
+|3월 10일|[오큰수](https://www.acmicpc.net/problem/17298)|  | | | |
+
+
