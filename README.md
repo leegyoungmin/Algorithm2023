@@ -6,6 +6,7 @@
    - https://blog.encrypted.gg/category/강좌/실전%20알고리즘?page=1
 - 해당 강의에 맞는 문제를 2문제를 풀고 코드를 Git에 올립니다.
    - https://www.acmicpc.net/workbook/by/BaaaaaaaaaaarkingDog
+   
    (참고 : https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook.md)
    - 예정된 문제를 푼 후, 개인적으로 푸는 문제도 올립니다.
 - 강의를 듣는 것으 월요일만 들어오고, 강의에 해당되는 문제를 일주일동안 풉니다.
