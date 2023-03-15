@@ -29,4 +29,4 @@
 |3월 8일|[탑](https://www.acmicpc.net/problem/2493), [옥상 정원 꾸미기](https://www.acmicpc.net/problem/6198)| ❎❎ | | ❎❎  | |
 |3월 10일|[오큰수](https://www.acmicpc.net/problem/17298)| ❎ | |✅ | |
 |3월 13일|[큐2](https://www.acmicpc.net/problem/18258), [카드2](https://www.acmicpc.net/problem/2164)|  | | ❎❎  | |
-|3월 15일|[공던지기](https://school.programmers.co.kr/learn/courses/30/lessons/120843), [영어가싫어요](https://school.programmers.co.kr/learn/courses/30/lessons/120894)|  | | | |
+|3월 15일|[공던지기](https://school.programmers.co.kr/learn/courses/30/lessons/120843), [영어가싫어요](https://school.programmers.co.kr/learn/courses/30/lessons/120894)|  | | ✅✅  | |
