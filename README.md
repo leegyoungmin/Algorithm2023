@@ -11,9 +11,6 @@
    - 예정된 문제를 푼 후, 개인적으로 푸는 문제도 올립니다.
 - 강의를 듣는 것으 월요일만 들어오고, 강의에 해당되는 문제를 일주일동안 풉니다.
 
-## 비고
-230317은 개인적으로 문제르 풀고 README에 올려주세요.
-
 ## 확인
 - 확인란에 틀렸든 맞았든 잘 체크 해주세요.
 
@@ -27,9 +24,9 @@
 ### 3월
 | date       | problem set          | LJ | Baem | 미니 | Gundy |
 | :----------: | :--------------------: | :----: | :----: | :----: | :----: |
-|3월 1일|[키로거](https://www.acmicpc.net/problem/5397), [요세푸스 문제](https://www.acmicpc.net/problem/1158)| ✅❎ | | ✅✅ | |
+|3월 1일|[키로거](https://www.acmicpc.net/problem/5397), [요세푸스 문제](https://www.acmicpc.net/problem/1158)| ✅❎ | ✅❎ | ✅✅ | |
 |3월 6일|[제로](https://www.acmicpc.net/problem/10773), [스택 수열](https://www.acmicpc.net/problem/1874)| ✅❎ | | ✅❎  | |
-|3월 8일|[탑](https://www.acmicpc.net/problem/2493), [옥상 정원 꾸미기](https://www.acmicpc.net/problem/6198)| ❎❎ | | ❎❎  | |
-|3월 10일|[오큰수](https://www.acmicpc.net/problem/17298)| ❎ | |✅ | |
-|3월 13일|[큐2](https://www.acmicpc.net/problem/18258), [카드2](https://www.acmicpc.net/problem/2164)|  | | ❎❎  | |
-|3월 15일|[공던지기](https://school.programmers.co.kr/learn/courses/30/lessons/120843), [영어가싫어요](https://school.programmers.co.kr/learn/courses/30/lessons/120894)|  | | ✅✅  | |
+|3월 8일|[탑](https://www.acmicpc.net/problem/2493), [옥상 정원 꾸미기](https://www.acmicpc.net/problem/6198)| ❎❎ | ❎❎ | ❎❎  | |
+|3월 10일|[오큰수](https://www.acmicpc.net/problem/17298)| ❎ | ❎ |✅ | |
+|3월 13일|[큐2](https://www.acmicpc.net/problem/18258), [카드2](https://www.acmicpc.net/problem/2164)|  | ✅✅ | ❎❎  | |
+|3월 15일|[공던지기](https://school.programmers.co.kr/learn/courses/30/lessons/120843), [영어가싫어요](https://school.programmers.co.kr/learn/courses/30/lessons/120894)|  | ✅✅ | ✅✅  | |
