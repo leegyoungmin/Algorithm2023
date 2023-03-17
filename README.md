@@ -30,6 +30,6 @@
 |3월 10일|[오큰수](https://www.acmicpc.net/problem/17298)| ❎ | ❎ |✅ | |
 |3월 13일|[큐2](https://www.acmicpc.net/problem/18258), [카드2](https://www.acmicpc.net/problem/2164)|  | ✅✅ | ❎❎  | |
 |3월 15일|[공던지기](https://school.programmers.co.kr/learn/courses/30/lessons/120843), [영어가싫어요](https://school.programmers.co.kr/learn/courses/30/lessons/120894)|  | ✅✅ | ✅✅  | |
-|3월 15일|[옹알이1](https://school.programmers.co.kr/learn/courses/30/lessons/120956), [안전지대](https://school.programmers.co.kr/learn/courses/30/lessons/120866)|  | |  | |
+|3월 17일|[옹알이1](https://school.programmers.co.kr/learn/courses/30/lessons/120956), [안전지대](https://school.programmers.co.kr/learn/courses/30/lessons/120866)|  | |  | |
 
 
