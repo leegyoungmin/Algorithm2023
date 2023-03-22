@@ -32,6 +32,7 @@
 |3월 15일|[공던지기](https://school.programmers.co.kr/learn/courses/30/lessons/120843), [영어가싫어요](https://school.programmers.co.kr/learn/courses/30/lessons/120894)| ❎❎ | ✅✅ | ✅✅ | |
 |3월 17일|[옹알이1](https://school.programmers.co.kr/learn/courses/30/lessons/120956), [안전지대](https://school.programmers.co.kr/learn/courses/30/lessons/120866)| ✅❎ | ✅✅ | ✅✅ | |
 |3월 20일|[회전하는큐](https://www.acmicpc.net/problem/1021), [AC](https://www.acmicpc.net/problem/5430)|  | | ✅❎| |
+|3월 22일|[모든 스택 수열](https://www.acmicpc.net/problem/23284)|  | | | |
 
 ### 4월
 | date       | problem set          | LJ | Baem | 미니 | Gundy |
