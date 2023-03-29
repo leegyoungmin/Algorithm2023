@@ -34,8 +34,8 @@
 |3월 20일|[회전하는큐](https://www.acmicpc.net/problem/1021), [AC](https://www.acmicpc.net/problem/5430)| ❎❎ | ✅❎ | ✅❎| ✅❎ |
 |3월 22일|[모든 스택 수열](https://www.acmicpc.net/problem/23284)|❎ | ❎ |❎ | ❎ |
 |3월 24일|[좋은 단어](https://www.acmicpc.net/problem/3986), [괄호](https://www.acmicpc.net/problem/9012) |❎❎ | ✅✅ |✅✅ | ✅✅ |
-|3월 27일|[쇠막대기](https://www.acmicpc.net/problem/10799), [괄호의 값](https://www.acmicpc.net/problem/2504) | ❎❎| |✅❎ | ✅✅ |
-|3월 29일|[올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909), [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | | | ✅✅| ✅✅ |
+|3월 27일|[쇠막대기](https://www.acmicpc.net/problem/10799), [괄호의 값](https://www.acmicpc.net/problem/2504) | ❎❎| ✅❎ |✅❎ | ✅✅ |
+|3월 29일|[올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909), [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | | ✅✅ | ✅✅| ✅✅ |
 
 
 ### 4월
