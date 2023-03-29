@@ -8,12 +8,13 @@ func solution(_ s:String) -> Bool {
         if char == "(" {
             stack.append(char)
         } else {
-            if stack.isEmpty == true { return false }
-
-            if stack.last == "(" {
+            if stack.count == 0 {
+                return false
+            } else {
                 stack.removeLast()
             }
         }
     }
-    return stack.isEmpty
+    
+    return stack.count == 0 ? true : false
 }
