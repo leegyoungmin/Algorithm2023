@@ -60,22 +60,19 @@ func solution() {
                         distance[x][y-1] = distance[x][y] + 1
                     }
                 }
-                if let down = visited[x][safe: y+1],
-                   down == false {
+                if visited[x][safe: y+1] == false {
                     needVisit.enqueue([x, y+1])
                     if distance[x][y+1] == 0 {
                         distance[x][y+1] = distance[x][y] + 1
                     }
                 }
-                if let left = visited[safe: x-1]?[y],
-                   left == false {
+                if visited[safe: x-1]?[y] == false {
                     needVisit.enqueue([x-1, y])
                     if distance[x-1][y] == 0 {
                         distance[x-1][y] = distance[x][y] + 1
                     }
                 }
-                if let right = visited[safe: x+1]?[y],
-                   right == false {
+                if visited[safe: x+1]?[y] == false {
                     needVisit.enqueue([x+1, y])
                     if distance[x+1][y] == 0 {
                         distance[x+1][y] = distance[x][y] + 1
