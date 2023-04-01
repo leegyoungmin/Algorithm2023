@@ -62,7 +62,7 @@
 ### 0x09강 - BFS
 | 문제 분류 | 문제 | 문제 제목 |  |
 | :--: | :--: | :--: | :--: |
-| 연습 문제 | 1926 | [그림](https://www.acmicpc.net/problem/1926) |  |
+| 연습 문제 | 1926 | [그림](https://www.acmicpc.net/problem/1926) | ⚠️ |
 | 연습 문제 | 2178 | [미로 탐색](https://www.acmicpc.net/problem/2178) |  |
 | 연습 문제 | 7576 | [토마토](https://www.acmicpc.net/problem/7576) | |
 | 연습 문제 | 4179 | [불!](https://www.acmicpc.net/problem/4179) |  |
@@ -73,7 +73,7 @@
 | 기본 문제✔ | 7562 | [나이트의 이동](https://www.acmicpc.net/problem/7562) |  |
 | 기본 문제✔ | 5427 | [불](https://www.acmicpc.net/problem/5427) |  |
 | 기본 문제 | 2583 | [영역 구하기](https://www.acmicpc.net/problem/2583) |  |
-| 기본 문제 | 2667 | [단지번호붙이기](https://www.acmicpc.net/problem/2667) | |
+| 기본 문제 | 2667 | [단지번호붙이기](https://www.acmicpc.net/problem/2667) | ✅ |
 | 기본 문제 | 5014 | [스타트링크](https://www.acmicpc.net/problem/5014) |  |
 | 기본 문제 | 2468 | [안전 영역](https://www.acmicpc.net/problem/2468) | |
 | 기본 문제 | 6593 | [상범 빌딩](https://www.acmicpc.net/problem/6593) |  |
@@ -86,7 +86,7 @@
 | 응용 문제 | 13913 | [숨바꼭질 4](https://www.acmicpc.net/problem/13913) |  |
 | 응용 문제 | 14442 | [벽 부수고 이동하기 2](https://www.acmicpc.net/problem/14442) |  |
 | 응용 문제 | 16933 | [벽 부수고 이동하기 3](https://www.acmicpc.net/problem/16933) |  |
-| 응용 문제 | 16920 | [확장 게임](https://www.acmicpc.net/problem/16920) | [ |
+| 응용 문제 | 16920 | [확장 게임](https://www.acmicpc.net/problem/16920) |  |
 | 응용 문제 | 11967 | [불켜기](https://www.acmicpc.net/problem/11967) |  |
 | 응용 문제 | 17071 | [숨바꼭질 5](https://www.acmicpc.net/problem/17071) |  |
 | 응용 문제 | 9328 | [열쇠](https://www.acmicpc.net/problem/9328) |  |
