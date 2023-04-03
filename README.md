@@ -41,3 +41,4 @@
 ### 4월
 | date       | problem set          | LJ | Baem | 미니 | Gundy |
 | :----------: | :--------------------: | :----: | :----: | :----: | :----: |
+|4월 3일|[나이트의 이동](https://www.acmicpc.net/problem/7562), [안전지대](https://www.acmicpc.net/problem/2468)| :----: | :----: | :----: | :----: |
