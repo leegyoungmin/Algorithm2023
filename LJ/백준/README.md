@@ -63,15 +63,15 @@
 | 문제 분류 | 문제 | 문제 제목 |  |
 | :--: | :--: | :--: | :--: |
 | 연습 문제 | 1926 | [그림](https://www.acmicpc.net/problem/1926) | ⚠️ |
-| 연습 문제 | 2178 | [미로 탐색](https://www.acmicpc.net/problem/2178) |  |
+| 연습 문제 | 2178 | [미로 탐색](https://www.acmicpc.net/problem/2178) | ⚠️ |
 | 연습 문제 | 7576 | [토마토](https://www.acmicpc.net/problem/7576) | |
 | 연습 문제 | 4179 | [불!](https://www.acmicpc.net/problem/4179) |  |
 | 연습 문제 | 1697 | [숨바꼭질](https://www.acmicpc.net/problem/1697) |  |
 | 기본 문제✔ | 1012 | [유기농 배추](https://www.acmicpc.net/problem/1012) |  |
 | 기본 문제✔ | 10026 | [적록색약](https://www.acmicpc.net/problem/10026) |  |
 | 기본 문제✔ | 7569 | [토마토](https://www.acmicpc.net/problem/7569) |  |
-| 기본 문제✔ | 7562 | [나이트의 이동](https://www.acmicpc.net/problem/7562) |  |
-| 기본 문제✔ | 5427 | [불](https://www.acmicpc.net/problem/5427) |  |
+| 기본 문제✔ | 7562 | [나이트의 이동](https://www.acmicpc.net/problem/7562) | ⚠️ |
+| 기본 문제✔ | 5427 | [불](https://www.acmicpc.net/problem/5427) | ⚠️ |
 | 기본 문제 | 2583 | [영역 구하기](https://www.acmicpc.net/problem/2583) |  |
 | 기본 문제 | 2667 | [단지번호붙이기](https://www.acmicpc.net/problem/2667) | ✅ |
 | 기본 문제 | 5014 | [스타트링크](https://www.acmicpc.net/problem/5014) |  |
