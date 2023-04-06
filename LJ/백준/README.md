@@ -22,7 +22,7 @@
 ### 0x05강 - 스택
 | 문제 분류 | 문제 | 문제 제목 | |
 | :--: | :--: | :--: | :--: |
-| 연습 문제 | 10828 | [스택](https://www.acmicpc.net/problem/10828) |⚠️ |
+| 연습 문제 | 10828 | [스택](https://www.acmicpc.net/problem/10828) | ✅ |
 | 기본 문제✔ | 10773 | [제로](https://www.acmicpc.net/problem/10773)| ✅ |
 | 응용 문제✔ | 1874 | [스택 수열](https://www.acmicpc.net/problem/1874) | |
 | 응용 문제✔ | 2493 | [탑](https://www.acmicpc.net/problem/2493) | ⚠️ |
