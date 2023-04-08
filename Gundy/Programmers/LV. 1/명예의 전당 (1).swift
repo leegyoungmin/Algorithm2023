@@ -6,6 +6,9 @@ func solution(_ k:Int, _ score:[Int]) -> [Int] {
         stack.append(scores.removeLast())
         stack = stack.sorted(by: >)
         result.append(stack.last!)
+        if scores.isEmpty {
+            return result
+        }
     }
     for point in scores.reversed() {
         stack = insert(point, stack)
