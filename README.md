@@ -44,5 +44,5 @@
 |4월 3일|[나이트의 이동](https://www.acmicpc.net/problem/7562), [안전지대](https://www.acmicpc.net/problem/2468)| ❎❎ | :----: | ✅✅ | ✅✅ |
 |4월 5일|[불](https://www.acmicpc.net/problem/5427)| ❎ | :----: | ❎ | ✅ |
 |4월 7일|[전쟁 - 전투](https://www.acmicpc.net/problem/1303), [침투](https://www.acmicpc.net/problem/13565)| ✅❎ | | ✅✅ | ✅✅ |
-|4월 7일|[DFS와 BFS](https://www.acmicpc.net/problem/1260), [바이러스](https://www.acmicpc.net/problem/2606)| | | | |
+|4월 7일|[DFS와 BFS](https://www.acmicpc.net/problem/1260), [바이러스](https://www.acmicpc.net/problem/2606)| | | ✅✅ | |
 
