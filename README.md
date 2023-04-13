@@ -45,5 +45,5 @@
 |4월 5일|[불](https://www.acmicpc.net/problem/5427)| ❎ | :----: | ❎ | ✅ |
 |4월 7일|[전쟁 - 전투](https://www.acmicpc.net/problem/1303), [침투](https://www.acmicpc.net/problem/13565)| ✅❎ | ✅✅ | ✅✅ | ✅✅ |
 |4월 10일|[DFS와 BFS](https://www.acmicpc.net/problem/1260), [바이러스](https://www.acmicpc.net/problem/2606)| | ✅✅ | ✅✅ | ✅✅ |
-|4월 12일|[Z](https://www.acmicpc.net/problem/1074)| |  |  |  |
+|4월 12일|[Z](https://www.acmicpc.net/problem/1074)| |  | ✅ |  |
 
