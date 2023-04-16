@@ -59,7 +59,7 @@
 | 응용 문제✔ | 2504 | [괄호의 값](https://www.acmicpc.net/problem/2504) | |
 
 ---
-### 0x09강 - BFS
+### 0x09강 - BFS, 0x0A강 - DFS
 | 문제 분류 | 문제 | 문제 제목 |  |
 | :--: | :--: | :--: | :--: |
 | 연습 문제 | 1926 | [그림](https://www.acmicpc.net/problem/1926) | ⚠️ |
@@ -94,10 +94,40 @@
 | 응용 문제 | 20304 | [비밀번호 제작](https://www.acmicpc.net/problem/20304) | |
 
 ---
-
-0x0A강 - DFS
-
 0x0B강 - 재귀
+| 문제 분류 | 문제 | 문제 제목 |   |
+| :--: | :--: | :--: | :--: |
+| 연습 문제 | 1629 | [곱셈](https://www.acmicpc.net/problem/1629) | ⚠️ |
+| 연습 문제 | 11729 | [하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729) |   |
+| 연습 문제 | 1074 | [Z](https://www.acmicpc.net/problem/1074) | ⚠️ |
+| 기본 문제✔ | 17478 | [재귀함수가 뭔가요?](https://www.acmicpc.net/problem/17478) | ✅ |
+| 기본 문제✔ | 1780 | [종이의 개수](https://www.acmicpc.net/problem/1780) |  |
+| 기본 문제✔ | 2630 | [색종이 만들기](https://www.acmicpc.net/problem/2630) |  |
+| 기본 문제✔ | 1992 | [쿼드트리](https://www.acmicpc.net/problem/1992) |  |
+| 응용 문제✔ | 2447 | [별 찍기 - 10](https://www.acmicpc.net/problem/2447) |  |
+| 응용 문제✔ | 2448 | [별 찍기 - 11](https://www.acmicpc.net/problem/2448) |  |
+| 응용 문제 | 14956 | [Philosopher’s Walk](https://www.acmicpc.net/problem/14956) |   |
+
+N과 M 시리즈 - 재귀로 풀기
+| 문제 분류 | 문제 | 문제 제목 |   |
+| :--: | :--: | :--: | :--: |
+|  | 15649 | [N과 M (1)](https://www.acmicpc.net/problem/15649) | ✅ |
+|  | 15650 | [N과 M (2)](https://www.acmicpc.net/problem/15650) | ✅ |
+|  | 15651 | [N과 M (3)](https://www.acmicpc.net/problem/15651) | ⚠️ |
+|  | 15652 | [N과 M (4)](https://www.acmicpc.net/problem/15652) |  |
+|  | 15654 | [N과 M (5)](https://www.acmicpc.net/problem/15654) |  |
+|  | 15655 | [N과 M (6)](https://www.acmicpc.net/problem/15655) |  |
+|  | 15656 | [N과 M (7)](https://www.acmicpc.net/problem/15656) |  |
+|  | 15657 | [N과 M (8)](https://www.acmicpc.net/problem/15657) |  |
+|  | 15663 | [N과 M (9)](https://www.acmicpc.net/problem/15663) |  |
+|  | 15664 | [N과 M (10)](https://www.acmicpc.net/problem/15664) |  |
+|  | 15665 | [N과 M (11)](https://www.acmicpc.net/problem/15665) |  |
+|  | 15666 | [N과 M (12)](https://www.acmicpc.net/problem/15666) |  |
+|  | | 피보나치수열 출력 | ✅ |
+|  | 2086 | [피보나치 수의 합](https://www.acmicpc.net/problem/2086) | |
+
+---
+
 0x0C강 - 백트래킹
 0x0D강 - 시뮬레이션
 0x0E강 - 정렬 I
