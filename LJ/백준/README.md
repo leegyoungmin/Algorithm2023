@@ -97,9 +97,9 @@
 0x0B강 - 재귀
 | 문제 분류 | 문제 | 문제 제목 |   |
 | :--: | :--: | :--: | :--: |
-| 연습 문제 | 1629 | [곱셈](https://www.acmicpc.net/problem/1629) | ⚠️ |
+| 연습 문제 | 1629 | [곱셈](https://www.acmicpc.net/problem/1629) | ⚠️⚠️ |
 | 연습 문제 | 11729 | [하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729) |   |
-| 연습 문제 | 1074 | [Z](https://www.acmicpc.net/problem/1074) | ⚠️ |
+| 연습 문제 | 1074 | [Z](https://www.acmicpc.net/problem/1074) | ✅ |
 | 기본 문제✔ | 17478 | [재귀함수가 뭔가요?](https://www.acmicpc.net/problem/17478) | ✅ |
 | 기본 문제✔ | 1780 | [종이의 개수](https://www.acmicpc.net/problem/1780) |  |
 | 기본 문제✔ | 2630 | [색종이 만들기](https://www.acmicpc.net/problem/2630) |  |
@@ -115,10 +115,10 @@ N과 M 시리즈 - 재귀로 풀기
 |  | 15650 | [N과 M (2)](https://www.acmicpc.net/problem/15650) | ✅ |
 |  | 15651 | [N과 M (3)](https://www.acmicpc.net/problem/15651) | ⚠️ |
 |  | 15652 | [N과 M (4)](https://www.acmicpc.net/problem/15652) |  |
-|  | 15654 | [N과 M (5)](https://www.acmicpc.net/problem/15654) |  |
-|  | 15655 | [N과 M (6)](https://www.acmicpc.net/problem/15655) |  |
-|  | 15656 | [N과 M (7)](https://www.acmicpc.net/problem/15656) |  |
-|  | 15657 | [N과 M (8)](https://www.acmicpc.net/problem/15657) |  |
+|  | 15654 | [N과 M (5)](https://www.acmicpc.net/problem/15654) | ✅ |
+|  | 15655 | [N과 M (6)](https://www.acmicpc.net/problem/15655) | ✅ |
+|  | 15656 | [N과 M (7)](https://www.acmicpc.net/problem/15656) | ✅ |
+|  | 15657 | [N과 M (8)](https://www.acmicpc.net/problem/15657) | ✅ |
 |  | 15663 | [N과 M (9)](https://www.acmicpc.net/problem/15663) |  |
 |  | 15664 | [N과 M (10)](https://www.acmicpc.net/problem/15664) |  |
 |  | 15665 | [N과 M (11)](https://www.acmicpc.net/problem/15665) |  |
