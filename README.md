@@ -49,4 +49,4 @@
 |4월 14일|[재귀가뭔가요?](https://www.acmicpc.net/problem/17478)|✅ |  |✅ | ✅ |
 |4월 17일|[촌수계산](https://www.acmicpc.net/problem/2644), [색종이만들기](https://www.acmicpc.net/problem/2630)|❎❎ |  | ✅✅ | ✅✅ |
 |4월 19일|[종이의 개수](https://www.acmicpc.net/problem/1780), [A->B](https://www.acmicpc.net/problem/16953)| ❎❎ | ✅✅ | ✅✅ | ✅✅ |
-|4월 21일|[쿼드트리](https://www.acmicpc.net/problem/1992)| | ✅ | ✅ | |
+|4월 21일|[쿼드트리](https://www.acmicpc.net/problem/1992)| | ✅ | ✅ | ✅ |
