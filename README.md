@@ -29,8 +29,8 @@
 |3월 8일|[탑](https://www.acmicpc.net/problem/2493), [옥상 정원 꾸미기](https://www.acmicpc.net/problem/6198)| ❎❎ | ❎❎ | ❎❎  | ✅✅ |
 |3월 10일|[오큰수](https://www.acmicpc.net/problem/17298)| ❎ | ❎ |✅ | ✅ |
 |3월 13일|[큐2](https://www.acmicpc.net/problem/18258), [카드2](https://www.acmicpc.net/problem/2164)| ❎❎ | ✅✅ | ❎❎  | ❎✅ |
-|3월 15일|[공던지기](https://school.programmers.co.kr/learn/courses/30/lessons/120843), [영어가싫어요](https://school.programmers.co.kr/learn/courses/30/lessons/120894)| ❎❎ | ✅✅ | ✅✅ | ✅✅ |
-|3월 17일|[옹알이1](https://school.programmers.co.kr/learn/courses/30/lessons/120956), [안전지대](https://school.programmers.co.kr/learn/courses/30/lessons/120866)| ✅❎ | ✅✅ | ✅✅ | ✅✅ |
+|3월 15일|[공던지기](https://school.programmers.co.kr/learn/courses/30/lessons/120843), [영어가싫어요](https://school.programmers.co.kr/learn/courses/30/lessons/120894)| ✅✅ | ✅✅ | ✅✅ | ✅✅ |
+|3월 17일|[옹알이1](https://school.programmers.co.kr/learn/courses/30/lessons/120956), [안전지대](https://school.programmers.co.kr/learn/courses/30/lessons/120866)| ✅✅ | ✅✅ | ✅✅ | ✅✅ |
 |3월 20일|[회전하는큐](https://www.acmicpc.net/problem/1021), [AC](https://www.acmicpc.net/problem/5430)| ❎❎ | ✅❎ | ✅❎| ✅❎ |
 |3월 22일|[모든 스택 수열](https://www.acmicpc.net/problem/23284)|❎ | ❎ |❎ | ❎ |
 |3월 24일|[좋은 단어](https://www.acmicpc.net/problem/3986), [괄호](https://www.acmicpc.net/problem/9012) |✅✅ | ✅✅ |✅✅ | ✅✅ |
@@ -41,7 +41,7 @@
 ### 4월
 | date       | problem set          | LJ | Baem | 미니 | Gundy |
 | :----------: | :--------------------: | :----: | :----: | :----: | :----: |
-|4월 3일|[나이트의 이동](https://www.acmicpc.net/problem/7562), [안전지대](https://www.acmicpc.net/problem/2468)| ❎❎ | :----: | ✅✅ | ✅✅ |
+|4월 3일|[나이트의 이동](https://www.acmicpc.net/problem/7562), [안전영역](https://www.acmicpc.net/problem/2468)| ❎❎ | :----: | ✅✅ | ✅✅ |
 |4월 5일|[불](https://www.acmicpc.net/problem/5427)| ❎ | :----: | ❎ | ✅ |
 |4월 7일|[전쟁 - 전투](https://www.acmicpc.net/problem/1303), [침투](https://www.acmicpc.net/problem/13565)| ✅❎ | ✅✅ | ✅✅ | ✅✅ |
 |4월 10일|[DFS와 BFS](https://www.acmicpc.net/problem/1260), [바이러스](https://www.acmicpc.net/problem/2606)|❎❎ | ✅✅ | ✅✅ | ✅✅ |
@@ -49,5 +49,5 @@
 |4월 14일|[재귀가뭔가요?](https://www.acmicpc.net/problem/17478)|✅ |  |✅ | ✅ |
 |4월 17일|[촌수계산](https://www.acmicpc.net/problem/2644), [색종이만들기](https://www.acmicpc.net/problem/2630)|❎❎ |  | ✅✅ | ✅✅ |
 |4월 19일|[종이의 개수](https://www.acmicpc.net/problem/1780), [A->B](https://www.acmicpc.net/problem/16953)| ❎❎ | ✅✅ | ✅✅ | ✅✅ |
-|4월 21일|[쿼드트리](https://www.acmicpc.net/problem/1992)| | ✅ | ✅ | ✅ |
-|4월 21일|[N-Queen](https://www.acmicpc.net/problem/9663)| |  |  ✅  |  |
+|4월 21일|[쿼드트리](https://www.acmicpc.net/problem/1992)| ❎ | ✅ | ✅ | ✅ |
+|4월 21일|[N-Queen](https://www.acmicpc.net/problem/9663)| ❎ |  |  ✅  |  |
