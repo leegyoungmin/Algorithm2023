@@ -4,7 +4,7 @@
 | 연습 문제 | 10808 | [알파벳 개수](https://www.acmicpc.net/problem/10808) | ✅ |
 | 기본 문제✔ | 2577 | [숫자의 개수](https://www.acmicpc.net/problem/2577) | ✅ |
 | 기본 문제✔ | 1475 | [방 번호](https://www.acmicpc.net/problem/1475) | ✅ |
-| 기본 문제✔ | 3273 | [두 수의 합](https://www.acmicpc.net/problem/3273) |  ⚠️ |
+| 기본 문제✔ | 3273 | [두 수의 합](https://www.acmicpc.net/problem/3273) | ✅ |
 | 기본 문제 | 10807 | [개수 세기](https://www.acmicpc.net/problem/10807) | ✅ |
 | 기본 문제 | 13300 | [방 배정](https://www.acmicpc.net/problem/13300) | ✅ |
 | 기본 문제 | 11328 | [Strfry](https://www.acmicpc.net/problem/11328) |    |
@@ -14,7 +14,7 @@
 ### 0x04강 - 연결 리스트
 | 문제 분류 | 문제 | 문제 제목 |  |
 | :--: | :--: | :--: | :--: |
-| 연습 문제 | 1406 | [에디터](https://www.acmicpc.net/problem/1406) | ⚠️ |
+| 연습 문제 | 1406 | [에디터](https://www.acmicpc.net/problem/1406) | ✅ |
 | 기본 문제✔ | 5397 | [키로거](https://www.acmicpc.net/problem/5397) | ✅ |
 | 기본 문제✔ | 1158 | [요세푸스 문제](https://www.acmicpc.net/problem/1158) | |
 
@@ -63,8 +63,8 @@
 | 문제 분류 | 문제 | 문제 제목 |  |
 | :--: | :--: | :--: | :--: |
 | 연습 문제 | 1926 | [그림](https://www.acmicpc.net/problem/1926) | ⚠️ |
-| 연습 문제 | 2178 | [미로 탐색](https://www.acmicpc.net/problem/2178) | ⚠️ |
-| 연습 문제 | 7576 | [토마토](https://www.acmicpc.net/problem/7576) | |
+| 연습 문제 | 2178 | [미로 탐색](https://www.acmicpc.net/problem/2178) | ⚠️⚠ |
+| 연습 문제 | 7576 | [토마토](https://www.acmicpc.net/problem/7576) | ✅ |
 | 연습 문제 | 4179 | [불!](https://www.acmicpc.net/problem/4179) |  |
 | 연습 문제 | 1697 | [숨바꼭질](https://www.acmicpc.net/problem/1697) |  |
 | 기본 문제✔ | 1012 | [유기농 배추](https://www.acmicpc.net/problem/1012) |  |
