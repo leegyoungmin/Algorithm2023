@@ -51,3 +51,4 @@
 |4월 19일|[종이의 개수](https://www.acmicpc.net/problem/1780), [A->B](https://www.acmicpc.net/problem/16953)| ❎❎ | ✅✅ | ✅✅ | ✅✅ |
 |4월 21일|[쿼드트리](https://www.acmicpc.net/problem/1992)| ❎ | ✅ | ✅ | ✅ |
 |4월 21일|[N-Queen](https://www.acmicpc.net/problem/9663)| ❎ |  |  ✅  | ❎ |
+|4월 21일|[부분 수열의 합](https://www.acmicpc.net/problem/1182)| |  |  ✅  | |
