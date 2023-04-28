@@ -50,5 +50,5 @@
 |4월 17일|[촌수계산](https://www.acmicpc.net/problem/2644), [색종이만들기](https://www.acmicpc.net/problem/2630)|❎❎ |  | ✅✅ | ✅✅ |
 |4월 19일|[종이의 개수](https://www.acmicpc.net/problem/1780), [A->B](https://www.acmicpc.net/problem/16953)| ❎❎ | ✅✅ | ✅✅ | ✅✅ |
 |4월 21일|[쿼드트리](https://www.acmicpc.net/problem/1992)| ❎ | ✅ | ✅ | ✅ |
-|4월 21일|[N-Queen](https://www.acmicpc.net/problem/9663)| ❎ |  |  ✅  | ❎ |
-|4월 21일|[부분 수열의 합](https://www.acmicpc.net/problem/1182), [로또](https://www.acmicpc.net/problem/6603)| |  |  ✅✅  | ✅✅ |
+|4월 24일|[N-Queen](https://www.acmicpc.net/problem/9663)| ❎ |  |  ✅  | ❎ |
+|4월 25일|[부분 수열의 합](https://www.acmicpc.net/problem/1182), [로또](https://www.acmicpc.net/problem/6603)|❎❎ |  |  ✅✅  | ✅✅ |
