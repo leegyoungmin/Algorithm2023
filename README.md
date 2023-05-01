@@ -57,4 +57,4 @@
 ### 5월
 | date       | problem set          | LJ | Baem | 미니 | Gundy |
 | :----------: | :--------------------: | :----: | :----: | :----: | :----: |
-|5월 1일|[감시](https://www.acmicpc.net/problem/15683)| | | | ✅ |
+|5월 1일|[감시](https://www.acmicpc.net/problem/15683)| | |❎ | ✅ |
