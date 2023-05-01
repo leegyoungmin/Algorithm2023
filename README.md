@@ -55,4 +55,6 @@
 |4월 28일|[암호 만들기](https://www.acmicpc.net/problem/1759)| | | ✅ | ✅ |
 
 ### 5월
+| date       | problem set          | LJ | Baem | 미니 | Gundy |
+| :----------: | :--------------------: | :----: | :----: | :----: | :----: |
 |5월 1일|[감시](https://www.acmicpc.net/problem/15683)| | | | |
