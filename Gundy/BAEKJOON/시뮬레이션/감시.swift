@@ -5,23 +5,30 @@ enum Side {
     case right
 }
 
-let size = readLine()!.split(separator: " ").compactMap({ Int($0) })
-var board = [[Int]]()
-for _ in 1...size[0] {
-    board.append(readLine()!.split(separator: " ").compactMap({ Int($0) }))
-}
-
-var needVisit = [(row: Int, column: Int, value: Int)]()
-for row in 0..<size[0] {
-    for column in 0..<size[1] {
-        if 1...5 ~= board[row][column] {
-            needVisit.append((row, column, board[row][column]))
+func watch(from point: (row: Int, column: Int), side: Side, board: inout [[Int]])  {
+    switch side {
+    case .up:
+        for row in stride(from: point.row - 1, through: 0, by: -1) {
+            guard board[row][point.column] != 6 else { return }
+            board[row][point.column] = -1
+        }
+    case .down:
+        for row in stride(from: point.row + 1, to: size[0], by: 1) {
+            guard board[row][point.column] != 6 else { return }
+            board[row][point.column] = -1
+        }
+    case .left:
+        for column in stride(from: point.column - 1, through: 0, by: -1) {
+            guard board[point.row][column] != 6 else { return }
+            board[point.row][column] = -1
+        }
+    case .right:
+        for column in stride(from: point.column + 1, to: size[1], by: 1) {
+            guard board[point.row][column] != 6 else { return }
+            board[point.row][column] = -1
         }
     }
 }
-needVisit = needVisit.sorted(by: { $0.value > $1.value })
-
-var result = [Int]()
 
 func recursion(current index: Int, board: [[Int]]) {
     guard index < needVisit.count else {
@@ -75,31 +82,23 @@ func recursion(current index: Int, board: [[Int]]) {
     }
 }
 
-recursion(current: 0, board: board)
+let size = readLine()!.split(separator: " ").compactMap({ Int($0) })
+var board = [[Int]]()
+for _ in 1...size[0] {
+    board.append(readLine()!.split(separator: " ").compactMap({ Int($0) }))
+}
 
-print(result.sorted().first!)
-
-func watch(from point: (row: Int, column: Int), side: Side, board: inout [[Int]])  {
-    switch side {
-    case .up:
-        for row in stride(from: point.row - 1, through: 0, by: -1) {
-            guard board[row][point.column] != 6 else { return }
-            board[row][point.column] = -1
-        }
-    case .down:
-        for row in stride(from: point.row + 1, to: size[0], by: 1) {
-            guard board[row][point.column] != 6 else { return }
-            board[row][point.column] = -1
-        }
-    case .left:
-        for column in stride(from: point.column - 1, through: 0, by: -1) {
-            guard board[point.row][column] != 6 else { return }
-            board[point.row][column] = -1
-        }
-    case .right:
-        for column in stride(from: point.column + 1, to: size[1], by: 1) {
-            guard board[point.row][column] != 6 else { return }
-            board[point.row][column] = -1
+var needVisit = [(row: Int, column: Int, value: Int)]()
+for row in 0..<size[0] {
+    for column in 0..<size[1] {
+        if 1...5 ~= board[row][column] {
+            needVisit.append((row, column, board[row][column]))
         }
     }
 }
+
+var result = [Int]()
+
+recursion(current: 0, board: board)
+
+print(result.sorted().first!)
