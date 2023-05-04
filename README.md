@@ -58,4 +58,4 @@
 | date       | problem set          | LJ | Baem | 미니 | Gundy |
 | :----------: | :--------------------: | :----: | :----: | :----: | :----: |
 |5월 1일|[감시](https://www.acmicpc.net/problem/15683)| | |✅| ✅ |
-|5월 3일|[배열합치기](https://www.acmicpc.net/problem/11728), [카드](https://www.acmicpc.net/problem/11652)| | |✅| ✅ |
+|5월 3일|[배열합치기](https://www.acmicpc.net/problem/11728), [카드](https://www.acmicpc.net/problem/11652)| | |✅| ✅✅ |
