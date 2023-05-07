@@ -52,10 +52,10 @@
 |4월 21일|[쿼드트리](https://www.acmicpc.net/problem/1992)| ❎ | ✅ | ✅ | ✅ |
 |4월 24일|[N-Queen](https://www.acmicpc.net/problem/9663)| ❎ |  |  ✅  | ❎ |
 |4월 25일|[부분 수열의 합](https://www.acmicpc.net/problem/1182), [로또](https://www.acmicpc.net/problem/6603)|❎❎ |  |  ✅✅  | ✅✅ |
-|4월 28일|[암호 만들기](https://www.acmicpc.net/problem/1759)| | | ✅ | ✅ |
+|4월 28일|[암호 만들기](https://www.acmicpc.net/problem/1759)|❎ | | ✅ | ✅ |
 
 ### 5월
 | date       | problem set          | LJ | Baem | 미니 | Gundy |
 | :----------: | :--------------------: | :----: | :----: | :----: | :----: |
-|5월 1일|[감시](https://www.acmicpc.net/problem/15683)| | |✅| ✅ |
-|5월 3일|[배열합치기](https://www.acmicpc.net/problem/11728), [카드](https://www.acmicpc.net/problem/11652)| | |✅| ✅✅ |
+|5월 1일|[감시](https://www.acmicpc.net/problem/15683)|❎ | |✅| ✅ |
+|5월 3일|[배열합치기](https://www.acmicpc.net/problem/11728), [카드](https://www.acmicpc.net/problem/11652)|✅✅ | |✅| ✅✅ |
