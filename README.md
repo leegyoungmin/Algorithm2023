@@ -60,7 +60,7 @@
 |5월 1일|[감시](https://www.acmicpc.net/problem/15683)|❎ | |✅| ✅ |
 |5월 3일|[배열합치기](https://www.acmicpc.net/problem/11728), [카드](https://www.acmicpc.net/problem/11652)|✅✅ | |✅| ✅✅ |
 |5월 8일|[1,2,3 더하기](https://www.acmicpc.net/problem/9095)|✅ | |✅| ✅ |
-|5월 8일|[연속합](https://www.acmicpc.net/problem/1912), [계단오르기](https://www.acmicpc.net/problem/2579)| | | | |
+|5월 8일|[연속합](https://www.acmicpc.net/problem/1912), [계단오르기](https://www.acmicpc.net/problem/2579)| | | | ✅ |
 
 
 
