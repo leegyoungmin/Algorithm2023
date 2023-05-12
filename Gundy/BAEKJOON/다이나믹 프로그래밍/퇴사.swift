@@ -12,8 +12,8 @@ var points = [Int: Set<Int>]()
 
 for currentDay in 0..<days {
     let dDay = currentDay + quests[currentDay][0]
-    let currentPoint = points[currentDay, default: [0]].sorted().last!
     if dDay <= days {
+        let currentPoint = points[currentDay, default: [0]].sorted().last!
         for day in dDay...days {
             points[day, default: []].insert(currentPoint + quests[currentDay][1])
         }
