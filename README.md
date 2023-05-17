@@ -63,4 +63,4 @@
 |5월 10일|[연속합](https://www.acmicpc.net/problem/1912), [계단오르기](https://www.acmicpc.net/problem/2579)|✅✅ | |✅✅ | ✅ | |
 |5월 12일| [퇴사](https://www.acmicpc.net/problem/14501) | ❎ |   |  | ✅ | |
 |5월 15일| [회의실 배정](https://www.acmicpc.net/problem/1931), [강의실 배정](https://www.acmicpc.net/problem/11000)| ✅❎ |   |✅❎  |  | |
-|5월 17일| [줄 세우기](https://www.acmicpc.net/problem/7570)| |   |  |  | |
+|5월 17일| [줄 세우기](https://www.acmicpc.net/problem/7570)| |   |✅  |  | |
