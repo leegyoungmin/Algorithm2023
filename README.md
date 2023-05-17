@@ -55,12 +55,12 @@
 |4월 28일|[암호 만들기](https://www.acmicpc.net/problem/1759)|❎ | | ✅ | ✅ |
 
 ### 5월
-| date       | problem set          | LJ | Baem | 미니 | Gundy |
-| :----------: | :--------------------: | :----: | :----: | :----: | :----: |
-|5월 1일|[감시](https://www.acmicpc.net/problem/15683)|❎ | |✅| ✅ |
-|5월 3일|[배열합치기](https://www.acmicpc.net/problem/11728), [카드](https://www.acmicpc.net/problem/11652)|✅✅ | |✅| ✅✅ |
-|5월 8일|[1,2,3 더하기](https://www.acmicpc.net/problem/9095)|✅ | |✅| ✅ |
-|5월 10일|[연속합](https://www.acmicpc.net/problem/1912), [계단오르기](https://www.acmicpc.net/problem/2579)|✅✅ | |✅✅ | ✅ |
-|5월 12일| [퇴사](https://www.acmicpc.net/problem/14501) | ❎ |   |  | ✅ |
-|5월 15일| [회의실 배정](https://www.acmicpc.net/problem/1931), [강의실 배정](https://www.acmicpc.net/problem/11000)| ✅❎ |   |✅❎  |  |
-|5월 17일| [줄 세우기](https://www.acmicpc.net/problem/7570)| |   |  |  |
+| date       | problem set          | LJ | Baem | 미니 | Gundy | Zhilly |
+| :----------: | :--------------------: | :----: | :----: | :----: | :----: | :----: |
+|5월 1일|[감시](https://www.acmicpc.net/problem/15683)|❎ | |✅| ✅ | |
+|5월 3일|[배열합치기](https://www.acmicpc.net/problem/11728), [카드](https://www.acmicpc.net/problem/11652)|✅✅ | |✅| ✅✅ | |
+|5월 8일|[1,2,3 더하기](https://www.acmicpc.net/problem/9095)|✅ | |✅| ✅ | |
+|5월 10일|[연속합](https://www.acmicpc.net/problem/1912), [계단오르기](https://www.acmicpc.net/problem/2579)|✅✅ | |✅✅ | ✅ | |
+|5월 12일| [퇴사](https://www.acmicpc.net/problem/14501) | ❎ |   |  | ✅ | |
+|5월 15일| [회의실 배정](https://www.acmicpc.net/problem/1931), [강의실 배정](https://www.acmicpc.net/problem/11000)| ✅❎ |   |✅❎  |  | |
+|5월 17일| [줄 세우기](https://www.acmicpc.net/problem/7570)| |   |  |  | |
