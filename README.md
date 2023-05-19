@@ -44,7 +44,7 @@
 |4월 3일|[나이트의 이동](https://www.acmicpc.net/problem/7562), [안전영역](https://www.acmicpc.net/problem/2468)| ✅❎ | :----: | ✅✅ | ✅✅ |
 |4월 5일|[불](https://www.acmicpc.net/problem/5427)| ❎ | :----: | ❎ | ✅ |
 |4월 7일|[전쟁 - 전투](https://www.acmicpc.net/problem/1303), [침투](https://www.acmicpc.net/problem/13565)| ✅❎ | ✅✅ | ✅✅ | ✅✅ |
-|4월 10일|[DFS와 BFS](https://www.acmicpc.net/problem/1260), [바이러스](https://www.acmicpc.net/problem/2606)|❎❎ | ✅✅ | ✅✅ | ✅✅ |
+|4월 10일|[DFS와 BFS](https://www.acmicpc.net/problem/1260), [바이러스](https://www.acmicpc.net/problem/2606)|❎✅ | ✅✅ | ✅✅ | ✅✅ |
 |4월 12일|[Z](https://www.acmicpc.net/problem/1074)| ✅ |  | ✅ | ✅ |
 |4월 14일|[재귀가뭔가요?](https://www.acmicpc.net/problem/17478)|✅ |  |✅ | ✅ |
 |4월 17일|[촌수계산](https://www.acmicpc.net/problem/2644), [색종이만들기](https://www.acmicpc.net/problem/2630)|❎❎ |  | ✅✅ | ✅✅ |
@@ -64,4 +64,4 @@
 |5월 12일| [퇴사](https://www.acmicpc.net/problem/14501) | ❎ |   |  | ✅ | |
 |5월 15일| [회의실 배정](https://www.acmicpc.net/problem/1931), [강의실 배정](https://www.acmicpc.net/problem/11000)| ✅❎ |   |✅❎  |  | |
 |5월 17일| [줄 세우기](https://www.acmicpc.net/problem/7570)| ❎ |   | ✅  | ✅ | ✅ |
-|5월 19일| [카잉달력](https://www.acmicpc.net/problem/6064), [이항계수 2](https://www.acmicpc.net/problem/11051)| ✅❎ |  |  |  | |
+|5월 19일| [카잉달력](https://www.acmicpc.net/problem/6064), [이항계수 2](https://www.acmicpc.net/problem/11051)| ✅✅ |  |  |  | |
