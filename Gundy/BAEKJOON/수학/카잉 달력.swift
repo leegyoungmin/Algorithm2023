@@ -1,17 +1,11 @@
-var result = [Int]()
-
-let numberOfCases = Int(readLine()!)!
-
-for _ in 1...numberOfCases {
+for _ in 1...Int(readLine()!)! {
     let input = readLine()!.split(separator: " ").compactMap({ Int($0) })
     if let number = solution(M: input[0], N: input[1], x: input[2], y: input[3]) {
-        result.append(number)
+        print(number)
     } else {
-        result.append(-1)
+        print(-1)
     }
 }
-
-result.forEach({ print($0) })
 
 func solution(M: Int, N: Int, x: Int, y: Int) -> Int? {
     guard M > 1 else { return y }
