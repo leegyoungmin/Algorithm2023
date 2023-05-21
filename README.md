@@ -47,7 +47,7 @@
 |4월 10일|[DFS와 BFS](https://www.acmicpc.net/problem/1260), [바이러스](https://www.acmicpc.net/problem/2606)|❎✅ | ✅✅ | ✅✅ | ✅✅ |
 |4월 12일|[Z](https://www.acmicpc.net/problem/1074)| ✅ |  | ✅ | ✅ |
 |4월 14일|[재귀가뭔가요?](https://www.acmicpc.net/problem/17478)|✅ |  |✅ | ✅ |
-|4월 17일|[촌수계산](https://www.acmicpc.net/problem/2644), [색종이만들기](https://www.acmicpc.net/problem/2630)|❎❎ |  | ✅✅ | ✅✅ |
+|4월 17일|[촌수계산](https://www.acmicpc.net/problem/2644), [색종이만들기](https://www.acmicpc.net/problem/2630)|✅❎ |  | ✅✅ | ✅✅ |
 |4월 19일|[종이의 개수](https://www.acmicpc.net/problem/1780), [A->B](https://www.acmicpc.net/problem/16953)| ❎❎ | ✅✅ | ✅✅ | ✅✅ |
 |4월 21일|[쿼드트리](https://www.acmicpc.net/problem/1992)| ❎ | ✅ | ✅ | ✅ |
 |4월 24일|[N-Queen](https://www.acmicpc.net/problem/9663)| ❎ |  |  ✅  | ❎ |
@@ -63,10 +63,10 @@
 |5월 10일|[연속합](https://www.acmicpc.net/problem/1912), [계단오르기](https://www.acmicpc.net/problem/2579)|✅✅ | |✅✅ | ✅ | |
 |5월 12일| [퇴사](https://www.acmicpc.net/problem/14501) | ❎ |   |  | ✅ | |
 |5월 15일| [회의실 배정](https://www.acmicpc.net/problem/1931), [강의실 배정](https://www.acmicpc.net/problem/11000)| ✅❎ |   |✅❎  |  | |
-|5월 17일| [줄 세우기](https://www.acmicpc.net/problem/7570)| ❎ |   | ✅  | ✅ | ✅ |
+|5월 17일| [줄 세우기](https://www.acmicpc.net/problem/7570)| ❎ |   | ✅  | ✅ | |
 |5월 19일| [카잉달력](https://www.acmicpc.net/problem/6064), [이항계수 2](https://www.acmicpc.net/problem/11051)| ✅✅ |  |  |  | |
-|5월 20일| [스택](https://www.acmicpc.net/problem/10828)| | | | | |
-|5월 21일| [제로](https://www.acmicpc.net/problem/10773)| | | | | |
+|5월 20일| [스택](https://www.acmicpc.net/problem/10828)|✅ | | | | |
+|5월 21일| [제로](https://www.acmicpc.net/problem/10773)|✅ | | | | |
 |5월 22일| | | | | | |
 |5월 23일| [탑](https://www.acmicpc.net/problem/2493)| | | | | |
 
