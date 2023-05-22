@@ -1,34 +1,33 @@
-struct Stack<DataType> {
-    private(set) var values: [DataType] = []
-    
-    mutating func push(_ value: DataType) {
-        values.append(value)
+struct Stack<T> {
+
+    private var container: [T]
+    var last: T? { return container.last }
+    var count: Int { return container.count }
+    var isEmpty: Bool { return container.isEmpty }
+    var values: [T] { return container }
+
+    init(_ elements: [T] = []) {
+        self.container = elements
     }
-    
-    mutating func pop() -> DataType? {
-        return values.popLast()
+
+    mutating func push(_ newElemnet: T) {
+        container.append(newElemnet)
+    }
+
+    @discardableResult mutating func pop() -> T? {
+        return container.popLast()
     }
 }
 
-var stack = Stack<Int>()
+var stack = Stack([Int]())
 
-func solution() {
-    let input = readLine()!
-    
-    switch input {
-    case "0":
+for _ in 1...Int(readLine()!)! {
+    let number = Int(readLine()!)!
+    if number == 0 {
         stack.pop()
-    default:
-        stack.push(Int(input)!)
+    } else {
+        stack.push(number)
     }
 }
 
-let count = Int(readLine()!)!
-
-for _ in 1...count {
-    solution()
-}
-
-print(stack.values.reduce(0, { partialResult, number in
-    partialResult + number
-}))
+print(stack.values.reduce(0, +))
