@@ -65,8 +65,8 @@
 |5월 15일| [회의실 배정](https://www.acmicpc.net/problem/1931), [강의실 배정](https://www.acmicpc.net/problem/11000)| ✅❎ |   |✅❎  | ✅❎ | |
 |5월 17일| [줄 세우기](https://www.acmicpc.net/problem/7570)| ❎ |   | ✅  | ✅ | |
 |5월 19일| [카잉달력](https://www.acmicpc.net/problem/6064), [이항계수 2](https://www.acmicpc.net/problem/11051)| ✅✅ |  |  | ✅✅ | |
-|5월 20일| [스택](https://www.acmicpc.net/problem/10828)|✅ | | | | |
-|5월 21일| [제로](https://www.acmicpc.net/problem/10773)|✅ | | | | |
+|5월 20일| [스택](https://www.acmicpc.net/problem/10828)|✅ | | | ✅ | |
+|5월 21일| [제로](https://www.acmicpc.net/problem/10773)|✅ | | | ✅ | |
 |5월 22일| | | | | | |
 |5월 23일| [탑](https://www.acmicpc.net/problem/2493)| | | | | |
 
