@@ -71,7 +71,7 @@
 |5월 21일| [제로](https://www.acmicpc.net/problem/10773)|✅ | |✅ | ✅ | |
 |5월 22일| [좌표 압축](https://www.acmicpc.net/problem/18870), [세수의 합](https://www.acmicpc.net/problem/2295) | ✅❎ | |✅ | ✅✅ | ✅✅ |
 |5월 23일| [탑](https://www.acmicpc.net/problem/2493)|✅ | |❎ | ✅ | |
-|5월 24일| [합이0](https://www.acmicpc.net/problem/3151) | | | | | |
+|5월 24일| [합이0](https://www.acmicpc.net/problem/3151) | | |✅ | | |
 |5월 25일| [카드2](https://www.acmicpc.net/problem/2164)| | | | | |
 |5월 26일| | | | | | |
 |5월 27일| [재귀함수가 뭔가요?](https://www.acmicpc.net/problem/17478)| | | | | |
