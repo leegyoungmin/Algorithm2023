@@ -10,7 +10,7 @@
    (참고 : https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook.md)
    - 예정된 문제를 푼 후, 개인적으로 푸는 문제도 올립니다.
 - 스터디 진행나 기준으로 격일로 강의를 듣고 옵니다.
-- 스터디 진행 할때는 연습문제르 푸느 시간으 가집니다.
+- 스터디 진행 할때는 연습문제를 푸는 시간을 가집니다.
 - 스터디 진행이 없는 날에는 이전에 들었던 강의의 문제를 풉니다.
 
 ## 확인
@@ -28,9 +28,9 @@
 | :----------: | :--------------------: | :----: | :----: | :----: | :----: |
 |3월 1일|[키로거](https://www.acmicpc.net/problem/5397), [요세푸스 문제](https://www.acmicpc.net/problem/1158)| ✅❎ | ✅❎ | ✅✅ | ✅✅ |
 |3월 6일|[제로](https://www.acmicpc.net/problem/10773), [스택 수열](https://www.acmicpc.net/problem/1874)| ✅❎ | | ✅❎  | ✅✅ |
-|3월 8일|[탑](https://www.acmicpc.net/problem/2493), [옥상 정원 꾸미기](https://www.acmicpc.net/problem/6198)| ❎❎ | ❎❎ | ❎❎  | ✅✅ |
+|3월 8일|[탑](https://www.acmicpc.net/problem/2493), [옥상 정원 꾸미기](https://www.acmicpc.net/problem/6198)| ✅❎ | ❎❎ | ❎❎  | ✅✅ |
 |3월 10일|[오큰수](https://www.acmicpc.net/problem/17298)| ❎ | ❎ |✅ | ✅ |
-|3월 13일|[큐2](https://www.acmicpc.net/problem/18258), [카드2](https://www.acmicpc.net/problem/2164)| ❎❎ | ✅✅ | ❎❎  | ❎✅ |
+|3월 13일|[큐2](https://www.acmicpc.net/problem/18258), [카드2](https://www.acmicpc.net/problem/2164)| ❎✅ | ✅✅ | ❎❎  | ❎✅ |
 |3월 15일|[공던지기](https://school.programmers.co.kr/learn/courses/30/lessons/120843), [영어가싫어요](https://school.programmers.co.kr/learn/courses/30/lessons/120894)| ✅✅ | ✅✅ | ✅✅ | ✅✅ |
 |3월 17일|[옹알이1](https://school.programmers.co.kr/learn/courses/30/lessons/120956), [안전지대](https://school.programmers.co.kr/learn/courses/30/lessons/120866)| ✅✅ | ✅✅ | ✅✅ | ✅✅ |
 |3월 20일|[회전하는큐](https://www.acmicpc.net/problem/1021), [AC](https://www.acmicpc.net/problem/5430)| ❎❎ | ✅❎ | ✅❎| ✅❎ |
@@ -49,8 +49,8 @@
 |4월 10일|[DFS와 BFS](https://www.acmicpc.net/problem/1260), [바이러스](https://www.acmicpc.net/problem/2606)|❎✅ | ✅✅ | ✅✅ | ✅✅ |
 |4월 12일|[Z](https://www.acmicpc.net/problem/1074)| ✅ |  | ✅ | ✅ |
 |4월 14일|[재귀가뭔가요?](https://www.acmicpc.net/problem/17478)|✅ |  |✅ | ✅ |
-|4월 17일|[촌수계산](https://www.acmicpc.net/problem/2644), [색종이만들기](https://www.acmicpc.net/problem/2630)|✅❎ |  | ✅✅ | ✅✅ |
-|4월 19일|[종이의 개수](https://www.acmicpc.net/problem/1780), [A->B](https://www.acmicpc.net/problem/16953)| ❎❎ | ✅✅ | ✅✅ | ✅✅ |
+|4월 17일|[촌수계산](https://www.acmicpc.net/problem/2644), [색종이만들기](https://www.acmicpc.net/problem/2630)|✅✅ |  | ✅✅ | ✅✅ |
+|4월 19일|[종이의 개수](https://www.acmicpc.net/problem/1780), [A->B](https://www.acmicpc.net/problem/16953)| ✅❎ | ✅✅ | ✅✅ | ✅✅ |
 |4월 21일|[쿼드트리](https://www.acmicpc.net/problem/1992)| ❎ | ✅ | ✅ | ✅ |
 |4월 24일|[N-Queen](https://www.acmicpc.net/problem/9663)| ❎ |  |  ✅  | ❎ |
 |4월 25일|[부분 수열의 합](https://www.acmicpc.net/problem/1182), [로또](https://www.acmicpc.net/problem/6603)|❎❎ |  |  ✅✅  | ✅✅ |
@@ -71,8 +71,8 @@
 |5월 21일| [제로](https://www.acmicpc.net/problem/10773)|✅ | |✅ | ✅ | |
 |5월 22일| [좌표 압축](https://www.acmicpc.net/problem/18870), [세수의 합](https://www.acmicpc.net/problem/2295) | ✅❎ | |✅ | ✅✅ | ✅✅ |
 |5월 23일| [탑](https://www.acmicpc.net/problem/2493)|✅ | |❎ | ✅ | |
-|5월 24일| [합이0](https://www.acmicpc.net/problem/3151) | | |✅ | | |
-|5월 25일| [카드2](https://www.acmicpc.net/problem/2164)| | | | | |
+|5월 24일| [합이0](https://www.acmicpc.net/problem/3151) |❎ | |✅ | | |
+|5월 25일| [카드2](https://www.acmicpc.net/problem/2164)|✅ | | | | |
 |5월 26일| | | | | | |
 |5월 27일| [재귀함수가 뭔가요?](https://www.acmicpc.net/problem/17478)| | | | | |
 |5월 28일| [종이의개수](https://www.acmicpc.net/problem/1780)| | | | | |
