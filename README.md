@@ -73,7 +73,7 @@
 |5월 23일| [탑](https://www.acmicpc.net/problem/2493)|✅ | |❎ | ✅ | |
 |5월 24일| [합이0](https://www.acmicpc.net/problem/3151) |❎ | |✅ | ❎ | |
 |5월 25일| [카드2](https://www.acmicpc.net/problem/2164)|✅ | |✅ | ✅ | |
-|5월 26일| [가장 긴 짝수 연속하 부분수열](https://www.acmicpc.net/problem/22862) | | | | | |
+|5월 26일| [가장 긴 짝수 연속하 부분수열](https://www.acmicpc.net/problem/22862) | | |✅ | | |
 |5월 27일| [재귀함수가 뭔가요?](https://www.acmicpc.net/problem/17478)| | | | | |
 |5월 28일| [종이의개수](https://www.acmicpc.net/problem/1780)| | | | | |
 |5월 30일| [쿼드트리](https://www.acmicpc.net/problem/1992)| | | | | |
