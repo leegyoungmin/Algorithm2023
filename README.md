@@ -65,20 +65,20 @@
 ### 5월
 | date       | problem set          | LJ | Baem | 미니 | Gundy | Zhilly |
 | :----------: | :--------------------: | :----: | :----: | :----: | :----: | :----: |
-|5월 1일|[감시](https://www.acmicpc.net/problem/15683)|❌  | |✅ | ✅  | |
-|5월 3일|[배열합치기](https://www.acmicpc.net/problem/11728), [카드](https://www.acmicpc.net/problem/11652)|✅ ✅  | |✅ | ✅ ✅  | |
-|5월 8일|[1,2,3 더하기](https://www.acmicpc.net/problem/9095)|✅  | |✅ | ✅  | |
-|5월 10일|[연속합](https://www.acmicpc.net/problem/1912), [계단오르기](https://www.acmicpc.net/problem/2579)|✅ ✅  | |✅ ✅  | ✅  | |
-|5월 12일| [퇴사](https://www.acmicpc.net/problem/14501) | ❌  |   |  | ✅  | |
-|5월 15일| [회의실 배정](https://www.acmicpc.net/problem/1931), [강의실 배정](https://www.acmicpc.net/problem/11000)| ✅ ❌  |   |✅ ❌   | ✅ ❌  | |
-|5월 17일| [줄 세우기](https://www.acmicpc.net/problem/7570)| ❌  |   | ✅   | ✅  | |
-|5월 19일| [카잉달력](https://www.acmicpc.net/problem/6064), [이항계수 2](https://www.acmicpc.net/problem/11051)| ✅ ✅  |  | ✅ ✅  | ✅ ✅  | ✅ ✅  |
-|5월 20일| [스택](https://www.acmicpc.net/problem/10828)|✅  | |✅  | ✅  | ✅ ✅  |
-|5월 21일| [제로](https://www.acmicpc.net/problem/10773)|✅  | |✅  | ✅  | |
+|5월 1일|[감시](https://www.acmicpc.net/problem/15683)|❌  |❌  |✅ | ✅  | |
+|5월 3일|[배열합치기](https://www.acmicpc.net/problem/11728), [카드](https://www.acmicpc.net/problem/11652)|✅ ✅  | ❌ |✅ | ✅ ✅  | |
+|5월 8일|[1,2,3 더하기](https://www.acmicpc.net/problem/9095)|✅  |❌  |✅ | ✅  | |
+|5월 10일|[연속합](https://www.acmicpc.net/problem/1912), [계단오르기](https://www.acmicpc.net/problem/2579)|✅ ✅  |❌  |✅ ✅  | ✅  | |
+|5월 12일| [퇴사](https://www.acmicpc.net/problem/14501) | ❌  | ❌   |  | ✅  | |
+|5월 15일| [회의실 배정](https://www.acmicpc.net/problem/1931), [강의실 배정](https://www.acmicpc.net/problem/11000)| ✅ ❌  | ❌   |✅ ❌   | ✅ ❌  | |
+|5월 17일| [줄 세우기](https://www.acmicpc.net/problem/7570)| ❌  | ❌   | ✅   | ✅  | |
+|5월 19일| [카잉달력](https://www.acmicpc.net/problem/6064), [이항계수 2](https://www.acmicpc.net/problem/11051)| ✅ ✅  |❌ ❌   | ✅ ✅  | ✅ ✅  | ✅ ✅  |
+|5월 20일| [스택](https://www.acmicpc.net/problem/10828)|✅  | ❌ |✅  | ✅  | ✅ ✅  |
+|5월 21일| [제로](https://www.acmicpc.net/problem/10773)|✅  |❌  |✅  | ✅  | |
 |5월 22일| [좌표 압축](https://www.acmicpc.net/problem/18870), [세수의 합](https://www.acmicpc.net/problem/2295) | ✅ ❌  | |✅  | ✅ ✅  | ✅ ✅  |
-|5월 23일| [탑](https://www.acmicpc.net/problem/2493)|✅  | |❌  | ✅  | ✅  |
-|5월 24일| [합이0](https://www.acmicpc.net/problem/3151) |❌  | |✅  | ✅  | ✅  |
-|5월 25일| [카드2](https://www.acmicpc.net/problem/2164)|✅  | |✅  | ✅  | ✅  |
+|5월 23일| [탑](https://www.acmicpc.net/problem/2493)|✅  | ❌ |❌  | ✅  | ✅  |
+|5월 24일| [합이0](https://www.acmicpc.net/problem/3151) |❌  |❌  |✅  | ✅  | ✅  |
+|5월 25일| [카드2](https://www.acmicpc.net/problem/2164)|✅  |  |✅  | ✅  | ✅  |
 |5월 26일| [가장 긴 짝수 연속하 부분수열](https://www.acmicpc.net/problem/22862) |❌  | |✅  | ✅  | ✅  |
 |5월 27일| [재귀함수가 뭔가요?](https://www.acmicpc.net/problem/17478)|✅  | | | ✅  | ✅  |
 |5월 28일| [종이의개수](https://www.acmicpc.net/problem/1780)|✅  | | | ✅  | |
