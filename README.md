@@ -57,9 +57,9 @@
 |4월 14일|[재귀가뭔가요?](https://www.acmicpc.net/problem/17478)|✅  |  |✅  | ✅  |
 |4월 17일|[촌수계산](https://www.acmicpc.net/problem/2644), [색종이만들기](https://www.acmicpc.net/problem/2630)|✅ ✅  |  | ✅ ✅  | ✅ ✅  |
 |4월 19일|[종이의 개수](https://www.acmicpc.net/problem/1780), [A->B](https://www.acmicpc.net/problem/16953)| ✅ ✅  | ✅ ✅  | ✅ ✅  | ✅ ✅  |
-|4월 21일|[쿼드트리](https://www.acmicpc.net/problem/1992)| ❌  | ✅  | ✅  | ✅  |
-|4월 24일|[N-Queen](https://www.acmicpc.net/problem/9663)| ❌  |  |  ✅   | ❌  |
-|4월 25일|[부분 수열의 합](https://www.acmicpc.net/problem/1182), [로또](https://www.acmicpc.net/problem/6603)|❌ ❌  |  |  ✅ ✅   | ✅ ✅  |
+|4월 21일|[쿼드트리](https://www.acmicpc.net/problem/1992)| ✅ | ✅  | ✅  | ✅  |
+|4월 24일|[N-Queen](https://www.acmicpc.net/problem/9663)| ❌ |  |  ✅   | ❌  |
+|4월 25일|[부분 수열의 합](https://www.acmicpc.net/problem/1182), [로또](https://www.acmicpc.net/problem/6603)|❌ ✅  |  |  ✅ ✅   | ✅ ✅  |
 |4월 28일|[암호 만들기](https://www.acmicpc.net/problem/1759)|❌  | | ✅  | ✅  |
 
 ### 5월
@@ -82,5 +82,5 @@
 |5월 26일| [가장 긴 짝수 연속하 부분수열](https://www.acmicpc.net/problem/22862) |❌  | |✅  | ✅  | ✅  |
 |5월 27일| [재귀함수가 뭔가요?](https://www.acmicpc.net/problem/17478)|✅  | | | ✅  | ✅  |
 |5월 28일| [종이의개수](https://www.acmicpc.net/problem/1780)|✅  | | | ✅  | |
-|5월 29일| [회전초밥](https://www.acmicpc.net/problem/2531)| | ✅  |❌  | ✅  | |
-|5월 30일| [쿼드트리](https://www.acmicpc.net/problem/1992)| | | | | |
+|5월 29일| [회전초밥](https://www.acmicpc.net/problem/2531)|❌ | ✅  |❌  | ✅  | |
+|5월 30일| [쿼드트리](https://www.acmicpc.net/problem/1992)|✅ | | | | |
