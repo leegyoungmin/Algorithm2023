@@ -84,3 +84,4 @@
 |5월 28일| [종이의개수](https://www.acmicpc.net/problem/1780)|✅  | | | ✅  | |
 |5월 29일| [회전초밥](https://www.acmicpc.net/problem/2531)|❌ | ✅  | ❌ | ✅ | ❌ |
 |5월 30일| [쿼드트리](https://www.acmicpc.net/problem/1992)|✅ | | | | ✅ |
+|5월 31일| [서로 다른 부분 문자열](https://www.acmicpc.net/problem/11478)| | | | | |
