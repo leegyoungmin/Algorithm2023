@@ -20,7 +20,7 @@
 ### 6월
 | date       | problem set          | LJ | Baem | 미니 | Gundy | Zhilly |
 | :----------: | :--------------------: | :----: | :----: | :----: | :----: | :----: |
-|6월 1일|| | | | | |
+|6월 1일| [부분수열의 합](https://www.acmicpc.net/problem/1182) | | | | | |
 
 ### 2월
 | date       | problem set          | LJ | Baem | 미니 | Gundy |
