@@ -21,7 +21,7 @@
 | date       | problem set          | LJ | Baem | 미니 | Gundy | Zhilly |
 | :----------: | :--------------------: | :----: | :----: | :----: | :----: | :----: |
 |6월 1일| [부분수열의 합](https://www.acmicpc.net/problem/1182) | | | | ✅ | |
-|6월 2일| [무한 수열](https://www.acmicpc.net/problem/1351) | | |✅ | ✅ | |
+|6월 2일| [무한 수열](https://www.acmicpc.net/problem/1351) | |✅ |✅ | ✅ | |
 
 ### 2월
 | date       | problem set          | LJ | Baem | 미니 | Gundy |
