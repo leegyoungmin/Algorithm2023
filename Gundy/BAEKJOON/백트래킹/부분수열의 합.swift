@@ -1,18 +1,22 @@
-let input = readLine()!.split(separator: " ").compactMap({ Int($0) })
-let numbers = readLine()!.split(separator: " ").compactMap({ Int($0) })
-var result = Set<[Int]>()
+let input = readLine()!.split(separator: " ").compactMap {
+    return Int($0)
+}
+let numbers = readLine()!.split(separator: " ").compactMap {
+    return Int($0)
+}
+var count = 0
 
-func recursion(current index: Int, partialResult: Int, list: [Int]) {
-    if list.isEmpty == false,
-       partialResult == input[1] {
-        result.insert(list)
+func recursion(currentIndex index: Int, partialResult result: Int) {
+    if result == input[1] {
+        count += 1
     }
-    guard index < input[0] - 1 else { return }
-    recursion(current: index + 1, partialResult: partialResult, list: list)
-    recursion(current: index + 1, partialResult: partialResult + numbers[index + 1], list: list + [index + 1])
+    for nextIndex in stride(from: index + 1, to: input[0], by: 1) {
+        recursion(currentIndex: nextIndex, partialResult: result + numbers[nextIndex])
+    }
 }
 
-recursion(current: 0, partialResult: numbers[0], list: [0])
-recursion(current: 0, partialResult: 0, list: [])
+for index in 0..<input[0] {
+    recursion(currentIndex: index, partialResult: numbers[index])
+}
 
-print(result.count)
+print(count)
