@@ -1,4 +1,4 @@
-//  Algorithm - 1351_무한수혈.swift
+//  Algorithm - 1351_무한수열.swift
 //  Created by zhilly on 2023/06/02
 
 import Foundation
