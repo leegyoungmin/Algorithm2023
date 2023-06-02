@@ -1,6 +1,4 @@
-var register = [Int: Int]()
-register[0] = 1
-
+var register = [0: 1]
 let input = readLine()!.split(separator: " ").compactMap {
     return Int($0)
 }
