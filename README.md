@@ -22,7 +22,7 @@
 | :----------: | :--------------------: | :----: | :----: | :----: | :----: | :----: |
 |6월 1일| [부분수열의 합](https://www.acmicpc.net/problem/1182) |❌ | | | ✅ | ✅ |
 |6월 2일| [무한 수열](https://www.acmicpc.net/problem/1351) |❌ |✅ |✅ | ✅ | ✅ |
-|6월 5일| [이중 우선순위 큐](https://www.acmicpc.net/problem/7662) | | | |  |  |
+|6월 5일| [이중 우선순위 큐](https://www.acmicpc.net/problem/7662) | | ❌  | |  |  |
 
 
 
