@@ -20,8 +20,12 @@
 ### 6월
 | date       | problem set          | LJ | Baem | 미니 | Gundy | Zhilly |
 | :----------: | :--------------------: | :----: | :----: | :----: | :----: | :----: |
-|6월 1일| [부분수열의 합](https://www.acmicpc.net/problem/1182) | | | | ✅ | ✅ |
-|6월 2일| [무한 수열](https://www.acmicpc.net/problem/1351) | |✅ |✅ | ✅ | ✅ |
+|6월 1일| [부분수열의 합](https://www.acmicpc.net/problem/1182) |❌ | | | ✅ | ✅ |
+|6월 2일| [무한 수열](https://www.acmicpc.net/problem/1351) |❌ |✅ |✅ | ✅ | ✅ |
+|6월 5일| [이중 우선순위 큐](https://www.acmicpc.net/problem/7662) | | | |  |  |
+
+
+
 
 ### 2월
 | date       | problem set          | LJ | Baem | 미니 | Gundy |
@@ -33,7 +37,7 @@
 ### 3월
 | date       | problem set          | LJ | Baem | 미니 | Gundy |
 | :----------: | :--------------------: | :----: | :----: | :----: | :----: |
-|3월 1일|[키로거](https://www.acmicpc.net/problem/5397), [요세푸스 문제](https://www.acmicpc.net/problem/1158)| ✅ ❌  | ✅ ❌  | ✅ ✅  | ✅ ✅  |
+|3월 1일|[키로거](https://www.acmicpc.net/problem/5397), [요세푸스 문제](https://www.acmicpc.net/problem/1158)| ✅ ✅  | ✅ ❌  | ✅ ✅  | ✅ ✅  |
 |3월 6일|[제로](https://www.acmicpc.net/problem/10773), [스택 수열](https://www.acmicpc.net/problem/1874)| ✅ ❌  | | ✅ ❌   | ✅ ✅  |
 |3월 8일|[탑](https://www.acmicpc.net/problem/2493), [옥상 정원 꾸미기](https://www.acmicpc.net/problem/6198)| ✅ ❌  | ❌ ❌  | ❌ ❌   | ✅ ✅  |
 |3월 10일|[오큰수](https://www.acmicpc.net/problem/17298)| ❌  | ❌  |✅  | ✅  |
@@ -43,7 +47,7 @@
 |3월 20일|[회전하는큐](https://www.acmicpc.net/problem/1021), [AC](https://www.acmicpc.net/problem/5430)| ❌ ❌  | ✅ ❌  | ✅ ❌ | ✅ ❌  |
 |3월 22일|[모든 스택 수열](https://www.acmicpc.net/problem/23284)|❌  | ❌  |❌  | ❌  |
 |3월 24일|[좋은 단어](https://www.acmicpc.net/problem/3986), [괄호](https://www.acmicpc.net/problem/9012) |✅ ✅  | ✅ ✅  |✅ ✅  | ✅ ✅  |
-|3월 27일|[쇠막대기](https://www.acmicpc.net/problem/10799), [괄호의 값](https://www.acmicpc.net/problem/2504) | ❌ ❌ | ✅ ❌  |✅ ❌  | ✅ ✅  |
+|3월 27일|[쇠막대기](https://www.acmicpc.net/problem/10799), [괄호의 값](https://www.acmicpc.net/problem/2504) | ✅ ❌ | ✅ ❌  |✅ ❌  | ✅ ✅  |
 |3월 29일|[올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909), [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) |✅ ✅  | ✅ ✅  | ✅ ✅ | ✅ ✅  |
 |3월 31일|[단지번호붙이기](https://www.acmicpc.net/problem/2667) (한번 풀어보세용) | ✅  | | ✅  | ✅  |
 
@@ -80,9 +84,9 @@
 |5월 23일| [탑](https://www.acmicpc.net/problem/2493)|✅  | ❌ |❌  | ✅  | ✅  |
 |5월 24일| [합이0](https://www.acmicpc.net/problem/3151) |❌  |❌  |✅  | ✅  | ✅  |
 |5월 25일| [카드2](https://www.acmicpc.net/problem/2164)|✅  |  |✅  | ✅  | ✅  |
-|5월 26일| [가장 긴 짝수 연속하 부분수열](https://www.acmicpc.net/problem/22862) | ❌  | |✅  | ✅  | ✅  |
+|5월 26일| [가장 긴 짝수 연속한 부분수열](https://www.acmicpc.net/problem/22862) | ❌  | |✅  | ✅  | ✅  |
 |5월 27일| [재귀함수가 뭔가요?](https://www.acmicpc.net/problem/17478)| ✅ | ✅ | | ✅  | ✅  |
 |5월 28일| [종이의개수](https://www.acmicpc.net/problem/1780)|✅  | | | ✅  | |
 |5월 29일| [회전초밥](https://www.acmicpc.net/problem/2531)|❌ | ✅  | ❌ | ✅ | ❌ |
 |5월 30일| [쿼드트리](https://www.acmicpc.net/problem/1992)|✅ | | | ✅ | ✅ |
-|5월 31일| [서로 다른 부분 문자열](https://www.acmicpc.net/problem/11478)| | ✅ | ✅ | ✅ | |
+|5월 31일| [서로 다른 부분 문자열](https://www.acmicpc.net/problem/11478)| ❌| ✅ | ✅ | ✅ | |
