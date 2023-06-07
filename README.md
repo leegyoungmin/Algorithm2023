@@ -23,10 +23,7 @@
 |6월 1일| [부분수열의 합](https://www.acmicpc.net/problem/1182) |❌ | | | ✅ | ✅ |
 |6월 2일| [무한 수열](https://www.acmicpc.net/problem/1351) |❌ |✅ |✅ | ✅ | ✅ |
 |6월 5일| [이중 우선순위 큐](https://www.acmicpc.net/problem/7662) -> 다음에 다시 풀어보기 | | ❌  | |  |  |
-|6월 7일| [Search in a Binary Search Tree
-](https://leetcode.com/problems/search-in-a-binary-search-tree/), [Two Sum IV - Input is a BST
-](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/), [Range Sum of BST
-](https://leetcode.com/problems/range-sum-of-bst/) | | | |  |  |
+|6월 7일| [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/), [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/), [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | | | |  |  |
 
 
 
