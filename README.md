@@ -28,7 +28,7 @@
 |6월 7일(3)| [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | | | ✅ | ✅ | ✅ |
 |6월 8일| [타겟넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165) | | |✅ | ✅ | ✅ |
 |6월 9일| [All Element in Two Binary Search Tree](https://leetcode.com/problems/all-elements-in-two-binary-search-trees) , [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | | |✅ ✅ | ✅ ✅ | ✅ ✅ |
-
+|6월 10일| [푸드 파이터 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240?language=cpp) | | | |  |  |
 
 
 
