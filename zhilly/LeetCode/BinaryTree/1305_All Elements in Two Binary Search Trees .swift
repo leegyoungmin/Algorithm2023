@@ -5,11 +5,7 @@ import Foundation
 
 class Solution {
     func getAllElements(_ root1: TreeNode?, _ root2: TreeNode?) -> [Int] {
-        var result: [Int] = []
-
-        result += inOrder(tree: root1) + inOrder(tree: root2)
-
-        return result.sorted()
+        return (inOrder(tree: root1) + inOrder(tree: root2)).sorted()
     }
 
     private func inOrder(tree: TreeNode?) -> [Int] {
