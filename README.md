@@ -24,13 +24,13 @@
 |6월 2일| [무한 수열](https://www.acmicpc.net/problem/1351) |❌ |✅ |✅ | ✅ | ✅ |
 |6월 5일| [이중 우선순위 큐](https://www.acmicpc.net/problem/7662) -> 다음에 다시 풀어보기 |❌ | ❌  |❌  | ❌ | ❌ |
 |6월 7일(1)| [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) |❌ | ✅ | ✅  | ✅  | ✅ |
-|6월 7일(2)| [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) |❌ | | ✅  | ✅  | ✅ |
-|6월 7일(3)| [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) |❌ | | ✅ | ✅ | ✅ |
+|6월 7일(2)| [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) |❌ | ❌ | ✅  | ✅  | ✅ |
+|6월 7일(3)| [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) |❌ | ❌ | ✅ | ✅ | ✅ |
 |6월 8일| [타겟넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165) |❌ | ✅ |✅ | ✅ | ✅ |
 |6월 9일| [All Element in Two Binary Search Tree](https://leetcode.com/problems/all-elements-in-two-binary-search-trees) , [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) |❌ ❌ | ✅ ？ |✅ ✅ | ✅ ✅ | ✅ ✅ |
 |6월 10일| [푸드 파이터 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240?language=swift) |❌ |✅ |✅ |  | ✅ |
 |6월 11일| [안전지대](https://school.programmers.co.kr/learn/courses/30/lessons/120866?language=swift) |❌ | ✅ | ✅  |  | ❌ |
-|6월 13일| [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840)| | | | | |
+|6월 13일| [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840)| | ✅ | | | |
 
 ### 2월
 | date       | problem set          | LJ | Baem | 미니 | Gundy |
