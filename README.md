@@ -30,7 +30,7 @@
 |6월 9일| [All Element in Two Binary Search Tree](https://leetcode.com/problems/all-elements-in-two-binary-search-trees) , [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) |❌ ❌ | ✅ ？ |✅ ✅ | ✅ ✅ | ✅ ✅ |
 |6월 10일| [푸드 파이터 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240?language=swift) |❌ |✅ |✅ | ✅ | ✅ |
 |6월 11일| [안전지대](https://school.programmers.co.kr/learn/courses/30/lessons/120866?language=swift) |❌ | ✅ | ✅  | ✅ | ❌ |
-|6월 13일| [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840)| | ✅ |✅ | | |
+|6월 13일| [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840)|✅ | ✅ |✅ | | |
 
 ### 2월
 | date       | problem set          | LJ | Baem | 미니 | Gundy |
