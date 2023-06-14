@@ -33,6 +33,9 @@
 |6월 13일| [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840)|✅ | ✅ |✅ | ✅ | ✅ |
 |6월 14일| [결혼식](https://www.acmicpc.net/problem/5567), [효율적인 해킹](https://www.acmicpc.net/problem/1325) | | |✅✅ | ✅❌ | |
 |6월 15일| [신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334) | | | | | |
+|6월 16일| [로또](https://www.acmicpc.net/problem/6603) | | | | | |
+
+
 
 ### 2월
 | date       | problem set          | LJ | Baem | 미니 | Gundy |
