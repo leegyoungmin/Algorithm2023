@@ -1,54 +1,21 @@
-extension Array {
-    subscript(safe index: Int) -> Element? {
-        guard self.count > index && index >= 0 else {
-            return nil
-        }
-        return self[index]
-    }
-}
-
 func solution(_ board:[[Int]]) -> Int {
-    var result: [[Int]] = board
-    let length: Int = board.count
-    for x in 0..<length {
-        for y in 0..<length {
-            if board[x][y] == 1 {
-                if var numbers = result[safe: x-1],
-                   let _ = numbers[safe: y-1] {
-                    numbers[y-1] = 2
-                    result[x-1] = numbers
+    var result = Array(repeating: Array(repeating: true,
+                                        count: board[0].count),
+                       count: board.count)
+    for row in 0..<board.count {
+        for column in 0..<board[row].count {
+            guard board[row][column] == 1 else {
+                continue
+            }
+            for (x, y) in zip([-1, 0, 1, -1, 0, 1, -1, 0, 1],
+                              [-1, -1, -1, 0, 0, 0, 1, 1, 1]) {
+                guard row + x >= 0 && row + x < board.count,
+                      column + y >= 0 && column + y < board[row + x].count else {
+                    continue
                 }
-                if var numbers = result[safe: x-1] {
-                    numbers[y] = 2
-                    result[x-1] = numbers
-                }
-                if var numbers = result[safe: x-1],
-                   let _ = numbers[safe: y+1] {
-                    numbers[y+1] = 2
-                    result[x-1] = numbers
-                }
-                if let _ = result[x][safe: y-1] {
-                    result[x][y-1] = 2
-                }
-                if let _ = result[x][safe: y+1] {
-                    result[x][y+1] = 2
-                }
-                if var numbers = result[safe: x+1],
-                   let _ = numbers[safe: y-1] {
-                    numbers[y-1] = 2
-                    result[x+1] = numbers
-                }
-                if var numbers = result[safe: x+1] {
-                    numbers[y] = 2
-                    result[x+1] = numbers
-                }
-                if var numbers = result[safe: x+1],
-                   let _ = numbers[safe: y+1] {
-                    numbers[y+1] = 2
-                    result[x+1] = numbers
-                }
+                result[row + x][column + y] = false
             }
         }
     }
-    return result.flatMap({ $0 }).filter({ $0 == 0 }).count
+    return result.flatMap { $0 }.filter { $0 }.count
 }
