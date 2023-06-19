@@ -1,22 +1,8 @@
 # Algorithm2023
-
-## 규칙
-- 시간 : 월, 수, 금 (오후 4시)
-- 해당 강의를 우선적으로 듣고 옵니다.
-   - https://blog.encrypted.gg/category/강좌/실전%20알고리즘?page=1
-- 해당 강의에 맞는 문제를 2문제를 풀고 코드를 Git에 올립니다.
-   - https://www.acmicpc.net/workbook/by/BaaaaaaaaaaarkingDog
-   
-   (참고 : https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook.md)
-   - 예정된 문제를 푼 후, 개인적으로 푸는 문제도 올립니다.
-- 스터디 진행나 기준으로 격일로 강의를 듣고 옵니다.
-- 스터디 진행 할때는 연습문제를 푸는 시간을 가집니다.
-- 스터디 진행이 없는 날에는 이전에 들었던 강의의 문제를 풉니다.
-
-## 확인
-- 확인란에 틀렸든 맞았든 잘 체크 해주세요.
-
-
+## Version 2.0
+### 규칙
+- 선별된 문제를 해당되는 날짜에 풀고 체크 합니다.
+- 월, 금에 모여서 각자 푼 방법을 공유합니다.
 ### 6월
 | date       | problem set          | LJ | Baem | 미니 | Gundy | Zhilly |
 | :----------: | :--------------------: | :----: | :----: | :----: | :----: | :----: |
@@ -41,6 +27,24 @@
 |6월 21일| [두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667) | | | | | |
 |6월 22일| [개인 정보 수집 유효 기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370) | | | | | |
 
+
+
+## Version 1.0
+### 규칙
+- 시간 : 월, 수, 금 (오후 4시)
+- 해당 강의를 우선적으로 듣고 옵니다.
+   - https://blog.encrypted.gg/category/강좌/실전%20알고리즘?page=1
+- 해당 강의에 맞는 문제를 2문제를 풀고 코드를 Git에 올립니다.
+   - https://www.acmicpc.net/workbook/by/BaaaaaaaaaaarkingDog
+   
+   (참고 : https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook.md)
+   - 예정된 문제를 푼 후, 개인적으로 푸는 문제도 올립니다.
+- 스터디 진행나 기준으로 격일로 강의를 듣고 옵니다.
+- 스터디 진행 할때는 연습문제를 푸는 시간을 가집니다.
+- 스터디 진행이 없는 날에는 이전에 들었던 강의의 문제를 풉니다.
+
+### 확인
+- 확인란에 틀렸든 맞았든 잘 체크 해주세요.
 
 ### 2월
 | date       | problem set          | LJ | Baem | 미니 | Gundy |
@@ -105,3 +109,7 @@
 |5월 29일| [회전초밥](https://www.acmicpc.net/problem/2531)|❌ | ✅  | ❌ | ✅ | ❌ |
 |5월 30일| [쿼드트리](https://www.acmicpc.net/problem/1992)|✅ | | | ✅ | ✅ |
 |5월 31일| [서로 다른 부분 문자열](https://www.acmicpc.net/problem/11478)| ❌| ✅ | ✅ | ✅ | |
+
+
+
+
