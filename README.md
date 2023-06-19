@@ -32,10 +32,10 @@
 |6월 11일| [안전지대](https://school.programmers.co.kr/learn/courses/30/lessons/120866?language=swift) |❌ | ✅ | ✅  | ✅ | ❌ |
 |6월 13일| [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840)|✅ | ✅ |✅ | ✅ | ✅ |
 |6월 14일| [결혼식](https://www.acmicpc.net/problem/5567), [효율적인 해킹](https://www.acmicpc.net/problem/1325) |✅ ❌ |✅❌ |✅✅ | ✅❌ | |
-|6월 15일| [신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334) | ✅ | ✅ | | | |
-|6월 16일| [로또](https://www.acmicpc.net/problem/6603) | ✅ | ✅ | | | |
-|6월 17일| [이모티콘 할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368) |❌ | ✅ | | | |
-|6월 18일| [거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302) |❌ |✅ | | | |
+|6월 15일| [신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334) | ✅ | ✅ |✅ | | |
+|6월 16일| [로또](https://www.acmicpc.net/problem/6603) | ✅ | ✅ | ✅| | |
+|6월 17일| [이모티콘 할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368) |❌ | ✅ | ✅| | |
+|6월 18일| [거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302) |❌ |✅ |✅ | | |
 |6월 19일| [불량 사용자](https://school.programmers.co.kr/learn/courses/30/lessons/64064) | | | | | |
 |6월 20일| [징검다리 건너기](https://school.programmers.co.kr/learn/courses/30/lessons/64062) | | | | | |
 |6월 21일| [두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667) | | | | | |
