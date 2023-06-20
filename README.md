@@ -6,7 +6,7 @@
 ### 6월
 | date       | problem set          | LJ | Baem | 미니 | Gundy | Zhilly |
 | :----------: | :--------------------: | :----: | :----: | :----: | :----: | :----: |
-|6월 1일| [부분수열의 합](https://www.acmicpc.net/problem/1182) |❌ | | | ✅ | ✅ |
+|6월 1일| [부분수열의 합](https://www.acmicpc.net/problem/1182) |❌ | ❌| | ✅ | ✅ |
 |6월 2일| [무한 수열](https://www.acmicpc.net/problem/1351) |❌ |✅ |✅ | ✅ | ✅ |
 |6월 5일| [이중 우선순위 큐](https://www.acmicpc.net/problem/7662) -> 다음에 다시 풀어보기 |❌ | ❌  |❌  | ❌ | ❌ |
 |6월 7일(1)| [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) |❌ | ✅ | ✅  | ✅  | ✅ |
