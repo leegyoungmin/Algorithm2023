@@ -26,8 +26,10 @@
 |6월 20일| [징검다리 건너기](https://school.programmers.co.kr/learn/courses/30/lessons/64062) | | | | | |
 |6월 21일| [두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667) | | | | | |
 |6월 22일| [개인 정보 수집 유효 기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370) | | | | | |
-
-
+|6월 23일| [멀리 뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914) | | | | | |
+|6월 24일| [영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981) | | | | | |
+|6월 25일| [n^2 배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/87390) | | | | | |
+|6월 26일| [짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973) | | | | | |
 
 ## Version 1.0
 ### 규칙
