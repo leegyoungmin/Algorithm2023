@@ -23,8 +23,8 @@
 |6월 17일| [이모티콘 할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368) |❌ | ✅ | ✅| | |
 |6월 18일| [거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302) |❌ |✅ |✅ | | |
 |6월 19일| [불량 사용자](https://school.programmers.co.kr/learn/courses/30/lessons/64064) | | ✅ |❌ | | |
-|6월 20일| [징검다리 건너기](https://school.programmers.co.kr/learn/courses/30/lessons/64062) | | | | | |
-|6월 21일| [두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667) | | | | | |
+|6월 20일| [징검다리 건너기](https://school.programmers.co.kr/learn/courses/30/lessons/64062) | | |❌ | | |
+|6월 21일| [두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667) | | | ✅| | |
 |6월 22일| [개인 정보 수집 유효 기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370) | | | | | |
 |6월 23일| [멀리 뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914) | | | | | |
 |6월 24일| [영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981) | | | | | |
