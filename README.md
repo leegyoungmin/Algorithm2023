@@ -29,7 +29,7 @@
 |6월 23일| [멀리 뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914) |❌ | | | | |
 |6월 24일| [영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981) |✅ | | | | |
 |6월 25일| [n^2 배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/87390) |✅ | | | | |
-|6월 26일| [짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973) | | | | | |
+|6월 26일| [짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973) | | | | ✅ | |
 
 ## Version 1.0
 ### 규칙
