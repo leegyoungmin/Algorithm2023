@@ -3,11 +3,7 @@ func solution(_ n:Int) -> Int {
     while numbers.count < n {
         let first = numbers[numbers.count - 2]
         let second = numbers[numbers.count - 1]
-        var number: Int = first + second
-        if number >= 1234567 {
-            number -= 1234567
-        }
-        numbers.append(number)
+        numbers.append((first + second) % 1234567)
     }
     return numbers[n - 1]
 }
