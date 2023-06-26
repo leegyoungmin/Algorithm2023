@@ -31,6 +31,8 @@
 |6월 25일| [n^2 배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/87390) |✅ | | | ✅ | |
 |6월 26일| [짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973) | | | | ✅ | |
 |6월 27일| [프로세스](https://school.programmers.co.kr/learn/courses/30/lessons/42587) | | | | | |
+|6월 28일| [괄호회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502) | | | | | |
+|6월 29일| [귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476) | | | | | |
 
 
 
