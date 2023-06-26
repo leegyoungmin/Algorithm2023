@@ -1,12 +1,11 @@
-func solution(_ s:String) -> Int{
-    var stack: String = ""
-    for text in s {
-        if stack.last == text {
+func solution(_ s:String) -> Int {
+    var stack = [Character]()
+    for character in s {
+        if stack.last == character {
             stack.removeLast()
         } else {
-            stack += String(text)
+            stack.append(character)
         }
     }
-
     return stack.isEmpty ? 1 : 0
 }
