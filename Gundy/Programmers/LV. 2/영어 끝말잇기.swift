@@ -1,20 +1,11 @@
 func solution(_ n:Int, _ words:[String]) -> [Int] {
-    var stack: [String] = []
+    var list = [String]()
     for word in words {
-        guard word.count > 1 else { break }
-        if stack.isEmpty {
-            stack.append(word)
-            continue
+        guard list.contains(word) == false,
+              list.isEmpty || list.last?.last == word.first else {
+            return [(list.count % n) + 1, (list.count / n) + 1]
         }
-        guard stack.contains(word) == false else { break }
-        guard stack.last?.last == word.first else { break }
-        stack.append(word)
+        list.append(word)
     }
-    guard stack.count < words.count else { return [0, 0] }
-    var number: Int = (stack.count + 1) % n
-    if number == 0 {
-        number = n
-    }
-    var time: Int = (stack.count + n) / n
-    return [number, time]
+    return [0, 0]
 }
