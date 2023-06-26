@@ -1,17 +1,7 @@
 func solution(_ n:Int, _ left:Int64, _ right:Int64) -> [Int] {
-    let left: Int = Int(left)
-    let right: Int = Int(right)
-    var result: [Int] = []
-    let startRow: Int = left / n
-    let startIndex: Int = left % n
-    if startIndex >= startRow {
-        result += stride(from: startIndex + 1, through: n, by: 1).map({ $0 })
-    } else {
-        result +=  Array(repeating: startRow + 1, count: startRow - startIndex) + stride(from: startRow + 1, through: n, by: 1).map({ $0 })
+    var board = [Int]()
+    for row in Int(left) / n...Int(right) / n {
+        board += Array(repeating: row + 1, count: row) + stride(from: row + 1, through: n, by: 1)
     }
-    let endRow: Int = right / n
-    for row in stride(from: startRow + 2, through: endRow + 1, by: 1) {
-        result += Array(repeating: row, count: row-1) + stride(from: row, through: n, by: 1).map({ $0 })
-    }
-    return Array(result[0...right - left])
+    return Array(board[Int(left) % n...(Int(left) % n) + Int(right - left)])
 }
