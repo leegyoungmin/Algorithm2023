@@ -1,43 +1,43 @@
+typealias Day = (year: Int, month: Int, day: Int)
+
 func solution(_ today:String, _ terms:[String], _ privacies:[String]) -> [Int] {
-    let today: [Int] = today.split(separator: ".").compactMap({ Int($0) })
-    var termList: [String : Int] = [:]
+    let today = toDay(of: today)
+    func isOverDue(target day: Day, term month: Int) -> Bool {
+        var target = day
+        target.day -= 1
+        if target.day == 0 {
+            target.month -= 1
+            target.day = 28
+        }
+        target.month += month
+        if target.month > 12 {
+            target.year += target.month / 12
+            target.month %= 12
+        }
+        if target.month == 0 {
+            target.month = 12
+            target.year -= 1
+        }
+        return target < today
+    }
+    var counter = [String: Int]()
     for term in terms {
-        let term: [String] = term.split(separator: " ").map({ String($0) })
-        termList[term[0]] = Int(term[1])!
+        let term = term.split(separator: " ").map(String.init)
+        counter[term[0]] = Int(term[1])
     }
-    var privacies: [[Int]] = privacies.map {
-        let texts: [String] = $0.split(separator: " ").map({ String($0) })
-        let term: Int = termList[texts[1]]!
-        var date: [Int] = texts[0].split(separator: ".").compactMap({ Int($0) })
-        date[1] += term
-        if date[1] > 12 {
-            date[0] += 1
-            date[1] -= 12
-        }
-        return date
-    }
-    var number: Int = 0
-    var result: [Int] = []
+    var index = 0
+    var result = [Int]()
     for privacy in privacies {
-        number += 1
-        guard privacy[0] >= today[0] else {
-            result.append(number)
-            continue
-        }
-        if privacy[0] > today[0] {
-            continue
-        }
-        guard privacy[1] >= today[1] else {
-            result.append(number)
-            continue
-        }
-        if privacy[1] > today[1] {
-            continue
-        }
-        guard privacy[2] > today[2] else {
-            result.append(number)
-            continue
+        index += 1
+        let privacy = privacy.split(separator: " ").map(String.init)
+        if isOverDue(target: toDay(of: privacy[0]), term: counter[privacy[1]]!) {
+            result.append(index)
         }
     }
     return result
+}
+
+func toDay(of date: String) -> Day {
+    let date = date.split(separator: ".").compactMap({ Int($0) })
+    return (date[0], date[1], date[2])
 }
