@@ -9,8 +9,7 @@
 | :----------: | :--------------------: | :----: | :----: | :----: | :----: | :----: |
 |7월 1일| [최소 직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491) | | | | | |
 |7월 2일| [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583) | | | | | |
-|7월 3일| [땅따먹기](https://school.programmers.co.kr/learn/courses/30/lessons/12913) | | 
-| | | |
+|7월 3일| [땅따먹기](https://school.programmers.co.kr/learn/courses/30/lessons/12913) | | | | | |
 |7월 4일| [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746) | | | | | |
 |7월 5일| [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946) | | | | | |
 
