@@ -1,14 +1,14 @@
 func solution(_ k:Int, _ tangerine:[Int]) -> Int {
-    var count: [Int : Int] = [:]
-    for fruit in tangerine {
-        count[fruit, default: 0] += 1
+    var counter = [Int: Int]()
+    for size in tangerine {
+        counter[size, default: 0] += 1
     }
-    var result: Int = 0
-    var target: Int = k
-    for counting in count.values.sorted(by: >) {
+    var result = 0
+    var needQuantity = k
+    for count in counter.values.sorted(by: >) {
+        needQuantity -= count
         result += 1
-        target -= counting
-        if target <= 0 {
+        if needQuantity <= 0 {
             break
         }
     }
