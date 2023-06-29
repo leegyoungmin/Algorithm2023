@@ -36,12 +36,12 @@
 |6월 20일| [징검다리 건너기](https://school.programmers.co.kr/learn/courses/30/lessons/64062) |❌ |❌ |❌ | | |
 |6월 21일| [두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667) |❌ | | ✅| ✅ | |
 |6월 22일| [개인 정보 수집 유효 기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370) |❌ | | | ✅ | |
-|6월 23일| [멀리 뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914) |❌ | | | ✅ | |
-|6월 24일| [영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981) |✅ | | | ✅ | |
+|6월 23일| [멀리 뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914) |❌ | | | ✅ | ✅ |
+|6월 24일| [영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981) |✅ | | | ✅ | ✅ |
 |6월 25일| [n^2 배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/87390) |✅ |❌ | | ✅ | |
-|6월 26일| [짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973) | | ✅ | ✅ | ✅ | |
-|6월 27일| [프로세스](https://school.programmers.co.kr/learn/courses/30/lessons/42587) | | ✅ | ✅  | ✅ | |
-|6월 28일| [괄호회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502) | | ✅ | ✅  | ✅ | |
+|6월 26일| [짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973) | | ✅ | ✅ | ✅ | ✅ |
+|6월 27일| [프로세스](https://school.programmers.co.kr/learn/courses/30/lessons/42587) | | ✅ | ✅  | ✅ | ✅ |
+|6월 28일| [괄호회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502) | | ✅ | ✅  | ✅ | ✅ |
 |6월 29일| [귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476) | | ✅ | | | |
 |6월 30일| [모음 사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512) | | ✅ | | | |
 
