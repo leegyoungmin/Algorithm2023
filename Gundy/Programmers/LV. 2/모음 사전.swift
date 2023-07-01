@@ -1,25 +1,17 @@
 func solution(_ word:String) -> Int {
-    var words: [String : Int] = [:]
-    var wordList: [String] = []
-    var needVisit: [[String]] = []
-    for word in ["A", "E", "I", "O", "U"] {
-        needVisit.append([word, ""])
-    }
-    while needVisit.isEmpty == false {
-        var now: [String] = needVisit.removeLast()
-        if now.last == "" {
-            wordList.append(now.joined())
-            now.removeLast()
-        }
-        if now.count == 5 {
+    let vowels = ["U", "O", "I", "E", "A"]
+    var stack = vowels
+    var words = [String: Int]()
+    while stack.isEmpty == false,
+          words[word] == nil {
+        let word = stack.removeLast()
+        words[word] = words.count + 1
+        guard word.count < 5 else {
             continue
         }
-        for word in ["A", "E", "I", "O", "U"] {
-            needVisit.append(now + [word, ""])
+        for vowel in vowels {
+            stack.append(word + vowel)
         }
-    }
-    for word in wordList.sorted() {
-        words[word] = words.count + 1
     }
     return words[word]!
 }
