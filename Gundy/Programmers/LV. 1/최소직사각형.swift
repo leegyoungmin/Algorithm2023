@@ -1,15 +1,15 @@
 func solution(_ sizes:[[Int]]) -> Int {
-    var maximumLongSide: Int = 0
-    var maximumShortSide: Int = 0
+    var shortSide = 0
+    var longSide = 0
     for size in sizes {
-        let longSide: Int = size[0] > size[1] ? size[0] : size[1]
-        let shortSide: Int = size[0] + size[1] - longSide
-        if longSide > maximumLongSide {
-            maximumLongSide = longSide
+        let short = size.min()!
+        let long = size.max()!
+        if shortSide < short {
+            shortSide = short
         }
-        if shortSide > maximumShortSide {
-            maximumShortSide = shortSide
+        if longSide < long {
+            longSide = long
         }
     }
-    return maximumLongSide * maximumShortSide
+    return shortSide * longSide
 }
