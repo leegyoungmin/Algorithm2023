@@ -8,7 +8,7 @@
 | date       | problem set          | LJ | Baem | 미니 | Gundy | Zhilly |
 | :----------: | :--------------------: | :----: | :----: | :----: | :----: | :----: |
 |7월 1일| [최소 직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491) |✅ | ✅ |✅ | ✅ | ✅ |
-|7월 2일| [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583) |❌ | |✅ | ✅ | ❌ |
+|7월 2일| [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583) |✅ | |✅ | ✅ | ❌ |
 |7월 3일| [땅따먹기](https://school.programmers.co.kr/learn/courses/30/lessons/12913) | | | | | |
 |7월 4일| [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746) | | | | | |
 |7월 5일| [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946) | | | | | |
@@ -39,7 +39,7 @@
 |6월 23일| [멀리 뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914) |❌ | | | ✅ | ✅ |
 |6월 24일| [영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981) |✅ | | | ✅ | ✅ |
 |6월 25일| [n^2 배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/87390) |✅ |❌ | | ✅ | |
-|6월 26일| [짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973) |❌ | ✅ | ✅ | ✅ | ✅ |
+|6월 26일| [짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973) |✅ | ✅ | ✅ | ✅ | ✅ |
 |6월 27일| [프로세스](https://school.programmers.co.kr/learn/courses/30/lessons/42587) |✅  | ✅ | ✅  | ✅ | ✅ |
 |6월 28일| [괄호회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502) |✅  | ✅ | ✅  | ✅ | ✅ |
 |6월 29일| [귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476) |✅ | ✅ |✅ | ✅ | ✅ |
