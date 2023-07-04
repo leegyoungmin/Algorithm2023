@@ -9,8 +9,8 @@
 | :----------: | :--------------------: | :----: | :----: | :----: | :----: | :----: |
 |7월 1일| [최소 직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491) |✅ | ✅ |✅ | ✅ | ✅ |
 |7월 2일| [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583) |✅ | ✅ |✅ | ✅ | ❌ |
-|7월 3일| [땅따먹기](https://school.programmers.co.kr/learn/courses/30/lessons/12913) | | ❌ | | | |
-|7월 4일| [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746) | | | | | |
+|7월 3일| [땅따먹기](https://school.programmers.co.kr/learn/courses/30/lessons/12913) | | ❌ | | ✅ | |
+|7월 4일| [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746) | | | | ✅ | |
 |7월 5일| [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946) | | | | | |
 
 ### 6월
@@ -29,8 +29,8 @@
 |6월 13일| [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840)|✅ | ✅ |✅ | ✅ | ✅ |
 |6월 14일| [결혼식](https://www.acmicpc.net/problem/5567), [효율적인 해킹](https://www.acmicpc.net/problem/1325) |✅ ❌ |✅❌ |✅✅ | ✅❌ | |
 |6월 15일| [신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334) | ✅ | ✅ |✅ | | |
-|6월 16일| [로또](https://www.acmicpc.net/problem/6603) | ✅ | ✅ | ✅| | |
-|6월 17일| [이모티콘 할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368) |❌ | ✅ | ✅| | |
+|6월 16일| [로또](https://www.acmicpc.net/problem/6603) | ✅ | ✅ | ✅| ✅ | |
+|6월 17일| [이모티콘 할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368) |❌ | ✅ | ✅| ✅ | |
 |6월 18일| [거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302) |❌ |✅ |✅ | ✅ | |
 |6월 19일| [불량 사용자](https://school.programmers.co.kr/learn/courses/30/lessons/64064) |✅ | ✅ |❌ | ✅ | |
 |6월 20일| [징검다리 건너기](https://school.programmers.co.kr/learn/courses/30/lessons/64062) |❌ |❌ |❌ | ❌ | |
