@@ -1,9 +1,4 @@
 func solution(_ numbers:[Int]) -> String {
-    var numbers: String = numbers.map({ $0.description }).sorted(by: {
-        $0 + $1 > $1 + $0
-    }).joined()
-    if numbers.first == "0" {
-        return "0"
-    }
-    return numbers
+    let numbers = numbers.map(String.init).sorted(by: { $0 + $1 > $1 + $0 }).joined()
+    return numbers.first == "0" ? "0" : numbers
 }
