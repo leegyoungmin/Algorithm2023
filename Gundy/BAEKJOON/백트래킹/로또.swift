@@ -1,24 +1,17 @@
-var input = readLine()!.split(separator: " ").compactMap({ Int($0) })
-var result = [[Int]]()
-
-while input[0] != 0 {
-    recursion(current: 1, numbers: [input[1]])
-    recursion(current: 1, numbers: [])
-    for numbers in result {
-        print(numbers.map({ "\($0)" }).joined(separator: " "))
+while let input = readLine(),
+      input != "0" {
+    let numbers = input.split(separator: " ").compactMap({ Int($0) })
+    func recursion(_ pick: [Int], current index: Int) {
+        guard pick.count < 6 else {
+            print(pick.map(String.init).joined(separator: " "))
+            return
+        }
+        guard index < numbers.count else {
+            return
+        }
+        recursion(pick + [numbers[index]], current: index + 1)
+        recursion(pick, current: index + 1)
     }
+    recursion([], current: 1)
     print()
-    input = readLine()!.split(separator: " ").compactMap({ Int($0) })
-    result = []
-}
-
-func recursion(current index: Int, numbers: [Int]) {
-    guard numbers.count < 6 else {
-        result.append(numbers)
-        return
-    }
-    guard index < input[0] else { return }
-
-    recursion(current: index + 1, numbers: numbers + [input[index + 1]])
-    recursion(current: index + 1, numbers: numbers)
 }
