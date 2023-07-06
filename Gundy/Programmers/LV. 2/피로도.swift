@@ -1,6 +1,6 @@
 func solution(_ k:Int, _ dungeons:[[Int]]) -> Int {
     var result = 0
-    func recursion(current fatigue: Int, visited indices: [Int]) {
+    func recursion(current fatigue: Int, visited indices: Set<Int>) {
         if result < indices.count {
             result = indices.count
         }
@@ -9,7 +9,7 @@ func solution(_ k:Int, _ dungeons:[[Int]]) -> Int {
                 continue
             }
             if dungeons[index][0] <= fatigue {
-                recursion(current: fatigue - dungeons[index][1], visited: indices + [index])
+                recursion(current: fatigue - dungeons[index][1], visited: indices.union([index]))
             }
         }
     }
