@@ -1,10 +1,10 @@
 func solution(_ k:Int, _ dungeons:[[Int]]) -> Int {
     var result = 0
     func recursion(current fatigue: Int, visited indices: [Int]) {
+        if result < indices.count {
+            result = indices.count
+        }
         for index in 0..<dungeons.count {
-            if result < indices.count {
-                result = indices.count
-            }
             guard indices.contains(index) == false else {
                 continue
             }
