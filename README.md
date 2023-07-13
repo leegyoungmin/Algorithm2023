@@ -15,9 +15,9 @@
 |7월 6일| [부대복귀](https://school.programmers.co.kr/learn/courses/30/lessons/132266) | | ❌ | | ✅ | ❌ |
 |7월 7일| [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162) | | ✅ | | ✅ | ✅ |
 |7월 8일| [숫자게임](https://school.programmers.co.kr/learn/courses/30/lessons/12987) | | ✅ | | ✅ | ✅ |
-|7월 9일| [보석 쇼핑](https://school.programmers.co.kr/learn/courses/30/lessons/67258) |❌ | ❌|❌ |❌ | ❌|
-|7월 10일| [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839) | | ❌ | | | |
-|7월 11일| [순위](https://school.programmers.co.kr/learn/courses/30/lessons/49191) | | ❌ | | | |
+|7월 9일| [보석 쇼핑](https://school.programmers.co.kr/learn/courses/30/lessons/67258) |❌ | ❌|❌ | ❌ | ❌|
+|7월 10일| [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839) | | ❌ | | ✅ | |
+|7월 11일| [순위](https://school.programmers.co.kr/learn/courses/30/lessons/49191) | | ❌ | | ❌ | |
 |7월 12일| [쿼드압축 후 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/68936) | | | | | |
 |7월 13일| [행렬의 곱셈](https://school.programmers.co.kr/learn/courses/30/lessons/12949) | | | | | |
 |7월 14일| [호텔 대실](https://school.programmers.co.kr/learn/courses/30/lessons/155651) | | | | | |
