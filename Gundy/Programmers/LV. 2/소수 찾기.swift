@@ -1,34 +1,40 @@
 import Foundation
 
 func solution(_ numbers:String) -> Int {
-    let numbers: [String] = numbers.map({ String($0) })
-    var numberList: Set<Int> = []
-    var needVisit: [(value: String, index: [Int])] = []
-    for index in 0..<numbers.count {
-        needVisit.append((numbers[index], [index]))
-    }
-    while needVisit.isEmpty == false {
-        let now = needVisit.removeLast()
-        numberList.insert(Int(now.value)!)
-        guard now.value.count < numbers.count else { continue }
+    let numbers = numbers.map(String.init)
+    var joinedNumbers = Set<Int>()
+    var result = 0
+    func recursion(_ number: String, indices: Set<Int>) {
+        guard indices.count < numbers.count else {
+            return
+        }
         for index in 0..<numbers.count {
-            if now.index.contains(index) == false {
-                needVisit.append((now.value + numbers[index], now.index + [index]))
+            guard indices.contains(index) == false else {
+                continue
             }
+            let number = number + numbers[index]
+            joinedNumbers.insert(Int(number)!)
+            recursion(number, indices: indices.union([index]))
         }
     }
-    return numberList.filter({ validate($0) }).count
-}
-
-func validate(_ number: Int) -> Bool {
-    guard number > 3 else { return number < 2 ? false : true }
-    for divisor in 2... {
-        if number % divisor == 0 {
-            return false
+    recursion("", indices: [])
+    func validate(_ number: Int) -> Bool {
+        guard number > 3 else {
+            return number > 1 ? true : false
         }
-        if Double(divisor) > sqrt(Double(number)) {
-            break
+        var divisor = 2
+        while divisor <= Int(sqrt(Double(number))) {
+            guard number % divisor != 0 else {
+                return false
+            }
+            divisor += 1
+        }
+        return true
+    }
+    for number in joinedNumbers {
+        if validate(number) {
+            result += 1
         }
     }
-    return true
+    return result
 }
