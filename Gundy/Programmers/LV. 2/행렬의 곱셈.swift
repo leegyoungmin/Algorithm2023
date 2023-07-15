@@ -1,13 +1,13 @@
 func solution(_ arr1:[[Int]], _ arr2:[[Int]]) -> [[Int]] {
-    var numbers: [[Int]] = Array(repeating: Array(repeating: 0, count: arr2.first!.count), count: arr1.count)
-    for x in 0..<arr2.first!.count {
-        for y in 0..<arr1.count {
-            var result: Int = 0
+    let width = arr2[0].count
+    let height = arr1.count
+    var result = Array(repeating: Array(repeating: 0, count: width), count: height)
+    for row in 0..<height {
+        for column in 0..<width {
             for index in 0..<arr2.count {
-                result += arr1[y][index] * arr2[index][x]
+                result[row][column] += arr1[row][index] * arr2[index][column]
             }
-            numbers[y][x] = result
         }
     }
-    return numbers
+    return result
 }
