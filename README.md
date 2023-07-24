@@ -19,8 +19,8 @@
 |7월 10일| [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839) |-- | ❌ |✅ | ✅ | |
 |7월 11일| [순위](https://school.programmers.co.kr/learn/courses/30/lessons/49191) |-- | ❌ |✅ | ❌ | |
 |7월 12일| [쿼드압축 후 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/68936) |-- | | ✅| ✅ | |
-|7월 13일| [행렬의 곱셈](https://school.programmers.co.kr/learn/courses/30/lessons/12949) |-- | ✅ | | | |
-|7월 14일| [호텔 대실](https://school.programmers.co.kr/learn/courses/30/lessons/155651) |-- | ✅ | | | |
+|7월 13일| [행렬의 곱셈](https://school.programmers.co.kr/learn/courses/30/lessons/12949) |-- | ✅ | | ✅ | |
+|7월 14일| [호텔 대실](https://school.programmers.co.kr/learn/courses/30/lessons/155651) |-- | ✅ | | ✅ | |
 
 ### 6월
 | date       | problem set          | LJ | Baem | 미니 | Gundy | Zhilly |
