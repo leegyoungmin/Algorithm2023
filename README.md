@@ -1,3 +1,10 @@
+# 개인 알고리즘
+
+### 9월
+| date       | problem set          | 체크 |
+| :----------: | :--------------------: | :----: |
+|7월 1일| [최소 직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491) |✅ |
+
 # Algorithm2023
 ## Version 2.0
 ### 규칙
