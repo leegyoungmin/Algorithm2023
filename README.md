@@ -3,7 +3,7 @@
 ### 9월
 | date       | problem set          | 체크 |
 | :----------: | :--------------------: | :----: |
-|7월 1일| [최소 직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491) |✅ |
+|9월 26일| [요격시스템](https://school.programmers.co.kr/learn/courses/30/lessons/181188) |✅ |
 
 # Algorithm2023
 ## Version 2.0
