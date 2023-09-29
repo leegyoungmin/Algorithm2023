@@ -4,6 +4,7 @@
 | date       | problem set          | 체크 |
 | :----------: | :--------------------: | :----: |
 |9월 26일| [요격시스템](https://school.programmers.co.kr/learn/courses/30/lessons/181188) |✅ |
+|9월 29일| [점찍기](https://school.programmers.co.kr/learn/courses/30/lessons/140107) |✅ |
 
 # Algorithm2023
 ## Version 2.0
