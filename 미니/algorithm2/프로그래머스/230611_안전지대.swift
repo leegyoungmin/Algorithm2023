@@ -1,4 +1,4 @@
-func solution(_ board: [[Int]]) -> Int {
+func solution(_ board: [[Int]]) -> Int {
    let xAxis = [-1, -1, -1, 0, 0, 1, 1, 1]
    let yAxis = [1, 0, -1, 1, -1, 1, 0, -1]
    
