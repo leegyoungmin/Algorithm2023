@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1828A7D02ACE705800EC99A5 /* 무인도 여행.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1828A7CF2ACE705800EC99A5 /* 무인도 여행.swift */; };
 		1831BFB52AC69B0800474BE1 /* 점찍기.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1831BFB42AC69B0800474BE1 /* 점찍기.swift */; };
 		18A8B5502ACDC1C0009D7A47 /* 리코쳇 로봇.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18A8B54F2ACDC1C0009D7A47 /* 리코쳇 로봇.swift */; };
 		18B206AC2AC2CE6F00ACCB47 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18B206AB2AC2CE6F00ACCB47 /* main.swift */; };
@@ -26,6 +27,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		1828A7CF2ACE705800EC99A5 /* 무인도 여행.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "무인도 여행.swift"; sourceTree = "<group>"; };
 		1831BFB42AC69B0800474BE1 /* 점찍기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "점찍기.swift"; sourceTree = "<group>"; };
 		18A8B54F2ACDC1C0009D7A47 /* 리코쳇 로봇.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "리코쳇 로봇.swift"; sourceTree = "<group>"; };
 		18B206A82AC2CE6F00ACCB47 /* algorithm2 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = algorithm2; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -129,6 +131,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		1828A7CE2ACE704E00EC99A5 /* 1006 */ = {
+			isa = PBXGroup;
+			children = (
+				1828A7CF2ACE705800EC99A5 /* 무인도 여행.swift */,
+			);
+			path = 1006;
+			sourceTree = "<group>";
+		};
 		1831BFB32AC69B0100474BE1 /* 0929 */ = {
 			isa = PBXGroup;
 			children = (
@@ -175,6 +185,7 @@
 		18B206B22AC2CE9400ACCB47 /* 프로그래머스 */ = {
 			isa = PBXGroup;
 			children = (
+				1828A7CE2ACE704E00EC99A5 /* 1006 */,
 				18A8B54E2ACDC1AC009D7A47 /* 1005 */,
 				1831BFB32AC69B0100474BE1 /* 0929 */,
 				18B207152AC2D18700ACCB47 /* 0926 */,
@@ -438,6 +449,7 @@
 				18B207172AC2D19300ACCB47 /* 요격 시스템.swift in Sources */,
 				1831BFB52AC69B0800474BE1 /* 점찍기.swift in Sources */,
 				18A8B5502ACDC1C0009D7A47 /* 리코쳇 로봇.swift in Sources */,
+				1828A7D02ACE705800EC99A5 /* 무인도 여행.swift in Sources */,
 				18B206AC2AC2CE6F00ACCB47 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
