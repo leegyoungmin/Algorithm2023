@@ -1,9 +1,11 @@
 # 개인 알고리즘
 
 ### 10월
+| date       | problem set          | 체크 |
+| :----------: | :--------------------: | :----: |
 |10월 5일| [리코쳇 로봇](https://school.programmers.co.kr/learn/courses/30/lessons/169199) |✅ |
 |10월 6일| [무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540) |✅ |
-|10월 8일| [시험장 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/81305) | |
+|10월 8일| [시험장 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/81305) |  |
 
 ### 9월
 | date       | problem set          | 체크 |
