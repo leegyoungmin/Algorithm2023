@@ -8,6 +8,7 @@
 |10월 8일| [숫자 타자 대회](https://school.programmers.co.kr/learn/courses/30/lessons/136797) | ❌ |
 |10월 9일| [시험장 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/81305) | ❌ |
 |10월 10일| [호텔 대실](https://school.programmers.co.kr/learn/courses/30/lessons/155651) | ✅ |
+|10월 11일| [미로 탈출 명령어](https://school.programmers.co.kr/learn/courses/30/lessons/150365)|❌ |
 
 
 
