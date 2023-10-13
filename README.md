@@ -9,8 +9,7 @@
 |10월 9일| [시험장 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/81305) | ❌ |
 |10월 10일| [호텔 대실](https://school.programmers.co.kr/learn/courses/30/lessons/155651) | ✅ |
 |10월 11일| [미로 탈출 명령어](https://school.programmers.co.kr/learn/courses/30/lessons/150365)|❌ |
-
-
+|10월 12일| [파괴되지 않은 건물](https://school.programmers.co.kr/learn/courses/30/lessons/92344)|❌ |
 
 ### 9월
 | date       | problem set          | 체크 |
